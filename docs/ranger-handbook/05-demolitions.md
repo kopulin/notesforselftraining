@@ -58,7 +58,10 @@ status: published
 
 > **註**：**高海拔與低溫會延長燃燒時間。**
 
-> **［圖 5-1．導爆管裁切技巧］**　原文圖說：Figure 5-1. Technique for cutting shock tube
+<figure>
+  <img src="/images/ranger-handbook/fig-05-01.png" alt="圖 5-1．導爆管裁切技巧" />
+  <figcaption>圖 5-1．導爆管裁切技巧（原書 p.5-3）<br />原文圖說：Figure 5-1. Technique for cutting shock tube</figcaption>
+</figure>
 
 ---
 
@@ -71,13 +74,25 @@ status: published
 > - 雷管位置上方須放置沙包或其他**容易辨識的標記**。
 > - 發火前須**目視檢查**發火系統，找出裂痕、鼓脹或腐蝕等可能造成**啞火**的徵兆。
 
-> **［圖 5-2．發火系統組件］**　原文圖說：Figure 5-2. Firing system components
+<figure>
+  <img src="/images/ranger-handbook/fig-05-02.png" alt="圖 5-2．發火系統組件" />
+  <figcaption>圖 5-2．發火系統組件（原書 p.5-4）<br />原文圖說：Figure 5-2. Firing system components</figcaption>
+</figure>
 
-> **［圖 5-3．導爆管接上 M81 的技巧］**　原文圖說：Figure 5-3. Technique for attaching shock tube to M81s
+<figure>
+  <img src="/images/ranger-handbook/fig-05-03.png" alt="圖 5-3．導爆管接上 M81 的技巧" />
+  <figcaption>圖 5-3．導爆管接上 M81 的技巧（原書 p.5-5）<br />原文圖說：Figure 5-3. Technique for attaching shock tube to M81s</figcaption>
+</figure>
 
-> **［圖 5-4．雙重起爆系統］**　原文圖說：Figure 5-4. Dual initiating system
+<figure>
+  <img src="/images/ranger-handbook/fig-05-04.png" alt="圖 5-4．雙重起爆系統" />
+  <figcaption>圖 5-4．雙重起爆系統（原書 p.5-6）<br />原文圖說：Figure 5-4. Dual initiating system</figcaption>
+</figure>
 
-> **［圖 5-5．英式 J 型起爆系統］**　原文圖說：Figure 5-5. British J initiating system
+<figure>
+  <img src="/images/ranger-handbook/fig-05-05.png" alt="圖 5-5．英式 J 型起爆系統" />
+  <figcaption>圖 5-5．英式 J 型起爆系統（原書 p.5-7）<br />原文圖說：Figure 5-5. British J initiating system</figcaption>
+</figure>
 
 ---
 
@@ -87,13 +102,25 @@ status: published
 
 > **📋 摘要（原文第 5-7 頁，爆破效果模擬器的共通組件清單）**：原文列出導火索點火器、定時導火索、導爆索與紙板等組件的型號與數量，依本書方針不列出，請見原文。
 
-> **［圖 5-6．爆破效果模擬器裝藥——完成的系統］**　原文圖說：Figure 5-6. Demolitions effects simulator charge – constructed system
+<figure>
+  <img src="/images/ranger-handbook/fig-05-06.png" alt="圖 5-6．爆破效果模擬器裝藥——完成的系統" />
+  <figcaption>圖 5-6．爆破效果模擬器裝藥——完成的系統（原書 p.5-8）<br />原文圖說：Figure 5-6. Demolitions effects simulator charge – constructed system</figcaption>
+</figure>
 
-> **［圖 5-7．雙重起爆的爆破效果模擬器裝藥］**　原文圖說：Figure 5-7. Dual initiated demolitions effects simulator charge
+<figure>
+  <img src="/images/ranger-handbook/fig-05-07.png" alt="圖 5-7．雙重起爆的爆破效果模擬器裝藥" />
+  <figcaption>圖 5-7．雙重起爆的爆破效果模擬器裝藥（原書 p.5-8）<br />原文圖說：Figure 5-7. Dual initiated demolitions effects simulator charge</figcaption>
+</figure>
 
-> **［圖 5-8．使用 uli 結與導爆索的爆破效果模擬器裝藥］**　原文圖說：Figure 5-8. Demolitions effects simulator charge with uli knot and 12 to 18 inches of detonating cord
+<figure>
+  <img src="/images/ranger-handbook/fig-05-08.png" alt="圖 5-8．使用 uli 結與導爆索的爆破效果模擬器裝藥" />
+  <figcaption>圖 5-8．使用 uli 結與導爆索的爆破效果模擬器裝藥（原書 p.5-9）<br />原文圖說：Figure 5-8. Demolitions effects simulator charge with uli knot and 12 to 18 inches of detonating cord</figcaption>
+</figure>
 
-> **［圖 5-9．爆破效果模擬器裝藥的紙板尺寸］**　原文圖說：Figure 5-9. Demolitions effects simulator charge cardboard cutout dimensions
+<figure>
+  <img src="/images/ranger-handbook/fig-05-09.png" alt="圖 5-9．爆破效果模擬器裝藥的紙板尺寸" />
+  <figcaption>圖 5-9．爆破效果模擬器裝藥的紙板尺寸（原書 p.5-10）<br />原文圖說：Figure 5-9. Demolitions effects simulator charge cardboard cutout dimensions</figcaption>
+</figure>
 
 ---
 

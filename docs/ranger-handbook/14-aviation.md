@@ -51,7 +51,10 @@ status: published
 - **日間**——由**地面引導員**為領頭航空器標示搭機區或降落區，方式為將 M4 步槍**高舉過頭**、將摺疊的 **VS-17 信號布板**舉至胸高，或其他經協調且可供識別的方式。
 - **夜間**——以**代號字母 Y** 或**倒 Y**（見圖 14-1）標示夜間領頭航空器的降落點。**化學螢光棒**或**豆袋燈（bean bag light）** 在任何燈火管制條件下均可使用；**擺動的化學螢光棒**也可用來標示降落點。
 
-> **［圖 14-1．倒 Y］**　原文圖說：Figure 14-1. Inverted Y
+<figure>
+  <img src="/images/ranger-handbook/fig-14-01.png" alt="圖 14-1．倒 Y" />
+  <figcaption>圖 14-1．倒 Y（原書 p.14-3）<br />原文圖說：Figure 14-1. Inverted Y</figcaption>
+</figure>
 
 ---
 
@@ -78,15 +81,30 @@ status: published
 
 **14-13.** 圖 14-2 為**大型單側搭機區**的示例。圖 14-3 至圖 14-6（原書第 14-6 至 14-9 頁）示範裝載與卸載的程序與要領。
 
-> **［圖 14-2．大型單側搭機區示例］**　原文圖說：Figure 14-2. Example of large, one-sided pickup zone
+<figure>
+  <img src="/images/ranger-handbook/fig-14-02.png" alt="圖 14-2．大型單側搭機區示例" />
+  <figcaption>圖 14-2．大型單側搭機區示例（原書 p.14-5）<br />原文圖說：Figure 14-2. Example of large, one-sided pickup zone</figcaption>
+</figure>
 
-> **［圖 14-3．UH-60L 裝載順序］**　原文圖說：Figure 14-3. UH-60L loading sequence
+<figure>
+  <img src="/images/ranger-handbook/fig-14-03.png" alt="圖 14-3．UH-60L 裝載順序" />
+  <figcaption>圖 14-3．UH-60L 裝載順序（原書 p.14-6）<br />原文圖說：Figure 14-3. UH-60L loading sequence</figcaption>
+</figure>
 
-> **［圖 14-4．UH-60L 卸載順序］**　原文圖說：Figure 14-4. UH-60L unloading sequence
+<figure>
+  <img src="/images/ranger-handbook/fig-14-04.png" alt="圖 14-4．UH-60L 卸載順序" />
+  <figcaption>圖 14-4．UH-60L 卸載順序（原書 p.14-7）<br />原文圖說：Figure 14-4. UH-60L unloading sequence</figcaption>
+</figure>
 
-> **［圖 14-5．戰術裝載順序］**　原文圖說：Figure 14-5. Tactical loading sequence
+<figure>
+  <img src="/images/ranger-handbook/fig-14-05.png" alt="圖 14-5．戰術裝載順序" />
+  <figcaption>圖 14-5．戰術裝載順序（原書 p.14-8）<br />原文圖說：Figure 14-5. Tactical loading sequence</figcaption>
+</figure>
 
-> **［圖 14-6．戰術卸載順序——使用最靠近掩蔽與隱蔽的艙門］**　原文圖說：Figure 14-6. Tactical unloading sequence using door nearest cover and concealment
+<figure>
+  <img src="/images/ranger-handbook/fig-14-06.png" alt="圖 14-6．戰術卸載順序——使用最靠近掩蔽與隱蔽的艙門" />
+  <figcaption>圖 14-6．戰術卸載順序——使用最靠近掩蔽與隱蔽的艙門（原書 p.14-9）<br />原文圖說：Figure 14-6. Tactical unloading sequence using door nearest cover and concealment</figcaption>
+</figure>
 
 ---
 
@@ -94,7 +112,10 @@ status: published
 
 **14-14.** 採**後艙門卸載**時，官兵自 CH-47 或其他後方出口航空器的**後艙門**離機。官兵離機後向外運動，**臥倒占領戰鬥位置**，建立三百六十度警戒，直到航空器升空離開降落區（見圖 14-7）。航空器離開降落區後，該單位依著陸計畫或標準作業程序，實施**單側或雙側降落區疾進（LZ rush）**。
 
-> **［圖 14-7．CH-47／CV-22 後艙門卸載法］**　原文圖說：Figure 14-7. CH-47/CV-22 rear ramp off-load method
+<figure>
+  <img src="/images/ranger-handbook/fig-14-07.png" alt="圖 14-7．CH-47／CV-22 後艙門卸載法" />
+  <figcaption>圖 14-7．CH-47／CV-22 後艙門卸載法（原書 p.14-10）<br />原文圖說：Figure 14-7. CH-47/CV-22 rear ramp off-load method</figcaption>
+</figure>
 
 **14-15.** 遊騎兵在航空器上及其周邊活動時，**安全是所有領導者的首要考量**。將航空器納入遊騎兵作戰會帶來高度風險。下列為針對 UH-60L 的若干安全要點：
 

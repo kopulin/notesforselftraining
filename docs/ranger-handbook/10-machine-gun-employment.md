@@ -56,9 +56,15 @@ status: published
 | **最後防護線（Final protective line, FPL）** | 預先決定、用以阻止敵人突擊的**掠射火力線**。除了單位正在攻擊其他目標時，機槍都要沿指定的最後防護線瞄準。最後防護線是單位機槍最後防護射擊的一部分，方向與仰角都固定。但單位會運用**小幅縱深調整**，防止敵人從最後防護線下方匍匐穿越，並彌補地形不規則，或射擊時三腳架腳陷入軟土的影響。機槍手在各種能見度條件下都要能射擊。 |
 | **主射向（Principal direction of fire, PDF）** | 分派給機槍手的任務，涵蓋射界良好的區域或可能的徒步接近路線，並為鄰接單位提供相互支援。沒有指定最後防護線時，機槍以主射向瞄準。有指定主射向、且單位未攻擊其他目標時，機槍保持在主射向上。領導者只有在未指定最後防護線時才使用主射向，此時主射向即成為該機槍在單位最後防護射擊中的部分。 |
 
-> **［圖 10-1．彈道與最大彈道高］**　原文圖說：Figure 10-1. Trajectory and maximum ordinate
+<figure>
+  <img src="/images/ranger-handbook/fig-10-01.png" alt="圖 10-1．彈道與最大彈道高" />
+  <figcaption>圖 10-1．彈道與最大彈道高（原書 p.10-3）<br />原文圖說：Figure 10-1. Trajectory and maximum ordinate</figcaption>
+</figure>
 
-> **［圖 10-2．射彈散布錐與彈著區］**　原文圖說：Figure 10-2. Cone of fire and beaten zone
+<figure>
+  <img src="/images/ranger-handbook/fig-10-02.png" alt="圖 10-2．射彈散布錐與彈著區" />
+  <figcaption>圖 10-2．射彈散布錐與彈著區（原書 p.10-4）<br />原文圖說：Figure 10-2. Cone of fire and beaten zone</figcaption>
+</figure>
 
 ---
 
@@ -73,7 +79,10 @@ status: published
 | **掠射（Grazing）** | 射彈散布錐的中心高出地面**不到 1 公尺（3 英尺）**。用於最後防護線防禦。只有在平坦或坡度均勻的地形上才可能實施。沿最後防護線遇到的任何死角，以 M320 等間接火力涵蓋。在平坦或坡度均勻的地形上射擊時，M240B 與 M249 最多可達 **600 公尺**掠射，M2 最多可達 **700 公尺**。 |
 | **俯射（Plunging）** | 危險空間位於彈著區內。武器在遠距離、從高處向低處、向急遽升高的地面，或越過起伏地形射擊，導致彈道任何一點都失去掠射效果。 |
 
-> **［圖 10-3．相對於地面的射擊分類］**　原文圖說：Figure 10-3. Classes of fire with respect to ground
+<figure>
+  <img src="/images/ranger-handbook/fig-10-03.png" alt="圖 10-3．相對於地面的射擊分類" />
+  <figcaption>圖 10-3．相對於地面的射擊分類（原書 p.10-5）<br />原文圖說：Figure 10-3. Classes of fire with respect to ground</figcaption>
+</figure>
 
 **10-3.** 領導者與機槍手要隨時設法將機槍組部署在最能針對敵方目標發揮機槍彈著區效果的位置。例如，利用地形或障礙**導引**敵人，使其以**縱隊隊形從正面**接近友軍機槍陣地。
 
@@ -90,9 +99,15 @@ status: published
 
 > **譯註**：表 10-4 正面射擊欄原文寫「most of the beaten zone normally falls below or after the enemy target」，依文意「below」應為「before」（前方），譯文依此翻譯。
 
-> **［圖 10-4A．相對於目標的射擊分類］**　原文圖說：Figure 10-4A. Classes of fire with respect to target
+<figure>
+  <img src="/images/ranger-handbook/fig-10-04a.png" alt="圖 10-4A．相對於目標的射擊分類" />
+  <figcaption>圖 10-4A．相對於目標的射擊分類（原書 p.10-7）<br />原文圖說：Figure 10-4A. Classes of fire with respect to target</figcaption>
+</figure>
 
-> **［圖 10-4B．相對於目標的射擊分類］**　原文圖說：Figure 10-4B. Classes of fire with respect to target
+<figure>
+  <img src="/images/ranger-handbook/fig-10-04b.png" alt="圖 10-4B．相對於目標的射擊分類" />
+  <figcaption>圖 10-4B．相對於目標的射擊分類（原書 p.10-8）<br />原文圖說：Figure 10-4B. Classes of fire with respect to target</figcaption>
+</figure>
 
 **10-5.** 相對於機槍的射擊分類包括：**定點、橫移、縱深、橫移縱深、擺動橫移與自由射擊**。表 10-5 說明這些分類，第 10-10 頁圖 10-5 為其示意。
 
@@ -107,7 +122,10 @@ status: published
 | **擺動橫移射擊（Swinging traverse）** | 用於需要大幅改變方向、但仰角幾乎不需改變的目標。目標可能是密集、寬廣、隊形緊密且緩慢朝向或遠離機槍移動的敵人，或在正前方橫向移動的車輛或乘車部隊。架在三腳架上時，將**橫移滑軌鎖定桿**放鬆到足以讓機槍手左右擺動機槍。擺動橫移射擊時，武器通常以**循環射速**射擊。**耗彈量大**，且因每發彈丸各自落在不同位置，**沒有彈著區**。 |
 | **自由射擊（Free gun）** | 對快速變換方向與仰角、須迅速攻擊的移動目標射擊（例如空中目標、車輛、乘車部隊，或隊形相對緊密、迅速朝向或遠離機槍陣地移動的敵兵）。自由射擊時，武器通常以循環射速射擊。耗彈量大，且因每發彈丸各自落在不同位置，沒有彈著區。 |
 
-> **［圖 10-5．相對於機槍的射擊分類］**　原文圖說：Figure 10-5. Classes of fire with respect to gun
+<figure>
+  <img src="/images/ranger-handbook/fig-10-05.png" alt="圖 10-5．相對於機槍的射擊分類" />
+  <figcaption>圖 10-5．相對於機槍的射擊分類（原書 p.10-10）<br />原文圖說：Figure 10-5. Classes of fire with respect to gun</figcaption>
+</figure>
 
 ---
 

@@ -22,29 +22,65 @@ status: published
 
 **A-2.** 圖表之後，本附錄深入說明各種適用於**清除建築物**的技術與隊形，並列出**敏感地點蒐證**綱要作為實用指南。
 
-> **［圖 A-1．反應間接火力訓練圖板］**　原文圖說：Figure A-1. React to indirect fire training board
+<figure>
+  <img src="/images/ranger-handbook/fig-a-01.png" alt="圖 A-1．反應間接火力訓練圖板" />
+  <figcaption>圖 A-1．反應間接火力訓練圖板（原書 p.A-2）<br />原文圖說：Figure A-1. React to indirect fire training board</figcaption>
+</figure>
 
-> **［圖 A-2．反應直接火力接觸訓練圖板］**　原文圖說：Figure A-2. React to direct fire contact training board
+<figure>
+  <img src="/images/ranger-handbook/fig-a-02.png" alt="圖 A-2．反應直接火力接觸訓練圖板" />
+  <figcaption>圖 A-2．反應直接火力接觸訓練圖板（原書 p.A-3）<br />原文圖說：Figure A-2. React to direct fire contact training board</figcaption>
+</figure>
 
-> **［圖 A-3．反應近距伏擊訓練圖板］**　原文圖說：Figure A-3. React to a near ambush training board
+<figure>
+  <img src="/images/ranger-handbook/fig-a-03.png" alt="圖 A-3．反應近距伏擊訓練圖板" />
+  <figcaption>圖 A-3．反應近距伏擊訓練圖板（原書 p.A-4）<br />原文圖說：Figure A-3. React to a near ambush training board</figcaption>
+</figure>
 
-> **［圖 A-4．脫離接觸訓練圖板］**　原文圖說：Figure A-4. Break contact training board
+<figure>
+  <img src="/images/ranger-handbook/fig-a-04.png" alt="圖 A-4．脫離接觸訓練圖板" />
+  <figcaption>圖 A-4．脫離接觸訓練圖板（原書 p.A-5）<br />原文圖說：Figure A-4. Break contact training board</figcaption>
+</figure>
 
-> **［圖 A-5．隊形與行軍序列訓練圖板］**　原文圖說：Figure A-5. Formations and order of movement training board
+<figure>
+  <img src="/images/ranger-handbook/fig-a-05.png" alt="圖 A-5．隊形與行軍序列訓練圖板" />
+  <figcaption>圖 A-5．隊形與行軍序列訓練圖板（原書 p.A-6）<br />原文圖說：Figure A-5. Formations and order of movement training board</figcaption>
+</figure>
 
-> **［圖 A-6．會合訓練圖板］**　原文圖說：Figure A-6. Linkup training board
+<figure>
+  <img src="/images/ranger-handbook/fig-a-06.png" alt="圖 A-6．會合訓練圖板" />
+  <figcaption>圖 A-6．會合訓練圖板（原書 p.A-7）<br />原文圖說：Figure A-6. Linkup training board</figcaption>
+</figure>
 
-> **［圖 A-7．線狀危險地區訓練圖板］**　原文圖說：Figure A-7. Linear danger area training board
+<figure>
+  <img src="/images/ranger-handbook/fig-a-07.png" alt="圖 A-7．線狀危險地區訓練圖板" />
+  <figcaption>圖 A-7．線狀危險地區訓練圖板（原書 p.A-8）<br />原文圖說：Figure A-7. Linear danger area training board</figcaption>
+</figure>
 
-> **［圖 A-8．大型開闊危險地區訓練圖板］**　原文圖說：Figure A-8. Large, open danger area training board
+<figure>
+  <img src="/images/ranger-handbook/fig-a-08.png" alt="圖 A-8．大型開闊危險地區訓練圖板" />
+  <figcaption>圖 A-8．大型開闊危險地區訓練圖板（原書 p.A-9）<br />原文圖說：Figure A-8. Large, open danger area training board</figcaption>
+</figure>
 
-> **［圖 A-9．通過小型開闊地訓練圖板］**　原文圖說：Figure A-9. Crossing a small, open area training board
+<figure>
+  <img src="/images/ranger-handbook/fig-a-09.png" alt="圖 A-9．通過小型開闊地訓練圖板" />
+  <figcaption>圖 A-9．通過小型開闊地訓練圖板（原書 p.A-10）<br />原文圖說：Figure A-9. Crossing a small, open area training board</figcaption>
+</figure>
 
-> **［圖 A-10．班攻擊訓練圖板］**　原文圖說：Figure A-10. Squad attack training board
+<figure>
+  <img src="/images/ranger-handbook/fig-a-10.png" alt="圖 A-10．班攻擊訓練圖板" />
+  <figcaption>圖 A-10．班攻擊訓練圖板（原書 p.A-11）<br />原文圖說：Figure A-10. Squad attack training board</figcaption>
+</figure>
 
-> **［圖 A-11．襲擊圖板（左）］**　原文圖說：Figure A-11. Raid boards (left)
+<figure>
+  <img src="/images/ranger-handbook/fig-a-11.png" alt="圖 A-11．襲擊圖板（左）" />
+  <figcaption>圖 A-11．襲擊圖板（左）（原書 p.A-12）<br />原文圖說：Figure A-11. Raid boards (left)</figcaption>
+</figure>
 
-> **［圖 A-12．襲擊圖板（中）］**　原文圖說：Figure A-12. Raid boards (middle)
+<figure>
+  <img src="/images/ranger-handbook/fig-a-12.png" alt="圖 A-12．襲擊圖板（中）" />
+  <figcaption>圖 A-12．襲擊圖板（中）（原書 p.A-13）<br />原文圖說：Figure A-12. Raid boards (middle)</figcaption>
+</figure>
 
 **表 A-1．襲擊圖板（右）——任務編組**
 
@@ -70,7 +106,10 @@ status: published
 
 > **圖例**：SOP 標準作業程序
 
-> **［圖 A-13．伏擊標準作業程序（左）］**　原文圖說：Figure A-13. Ambush standard operating procedure (left)
+<figure>
+  <img src="/images/ranger-handbook/fig-a-13.png" alt="圖 A-13．伏擊標準作業程序（左）" />
+  <figcaption>圖 A-13．伏擊標準作業程序（左）（原書 p.A-16）<br />原文圖說：Figure A-13. Ambush standard operating procedure (left)</figcaption>
+</figure>
 
 **表 A-3．伏擊圖板（中）**
 
@@ -83,7 +122,10 @@ status: published
 
 > **圖例**：ATPIAL 先進目標指示／照明／瞄準雷射／C2 指揮管制／FO 前進觀測官／HQ 指揮部／LSS 左側警戒／NVD 夜視裝置／OBJ 目標／ORP 目標集合點／PIR 優先情報需求／PL 排長／PSG 排士官長／RECON/REORG 偵察／重編／RSS 右側警戒／RTO 無線電話務員／WSL 武器班班長
 
-> **［圖 A-14．領導者偵察訓練圖板］**　原文圖說：Figure A-14. Leader's reconnaissance training board
+<figure>
+  <img src="/images/ranger-handbook/fig-a-14.png" alt="圖 A-14．領導者偵察訓練圖板" />
+  <figcaption>圖 A-14．領導者偵察訓練圖板（原書 p.A-18）<br />原文圖說：Figure A-14. Leader's reconnaissance training board</figcaption>
+</figure>
 
 ---
 
@@ -108,7 +150,10 @@ status: published
 
 **A-5.** **蛇形技術（serpentine technique）** 是菱形隊形的變化型，適用於**狹窄走廊**。1 號遊騎兵負責前方警戒，射界涵蓋出現在走廊遠端或沿走廊出現的敵軍。2 號與 3 號遊騎兵掩護 1 號的**左右兩側**，射界涵蓋自走廊兩側突然出現的敵方戰鬥員。通常攜帶 **M249 機槍**的 4 號遊騎兵負責**後方防護**，應付自小組後方出現的敵軍。（見原書第 A-20 頁圖 A-15。）
 
-> **［圖 A-15．菱形與 V 字形隊形］**　原文圖說：Figure A-15. Diamond and vee formations
+<figure>
+  <img src="/images/ranger-handbook/fig-a-15.png" alt="圖 A-15．菱形與 V 字形隊形" />
+  <figcaption>圖 A-15．菱形與 V 字形隊形（原書 p.A-20）<br />原文圖說：Figure A-15. Diamond and vee formations</figcaption>
+</figure>
 
 ---
 
@@ -128,7 +173,10 @@ status: published
 4. 2 號與 4 號繼續朝行進方向移動。4 號自 3 號後方通過時，3 號橫向左移直到抵達遠側轉角；3 號開始橫越走廊時，1 號轉向行進方向，回到菱形（蛇形）隊形中的原本位置。（見圖 A-16 步驟 E。）
 5. 3 號與 4 號抵達走廊遠側後，同樣回到菱形（蛇形）隊形的原本位置，火力伍繼續運動。（見圖 A-16 步驟 F。）
 
-> **［圖 A-16．清除走廊交會處的運動隊形］**　原文圖說：Figure A-16. Movement formations to clear hallway junctions
+<figure>
+  <img src="/images/ranger-handbook/fig-a-16.png" alt="圖 A-16．清除走廊交會處的運動隊形" />
+  <figcaption>圖 A-16．清除走廊交會處的運動隊形（原書 p.A-22）<br />原文圖說：Figure A-16. Movement formations to clear hallway junctions</figcaption>
+</figure>
 
 ---
 
@@ -141,7 +189,10 @@ status: published
 3. 同時，2 號與 4 號向前一步並分別向左、向右轉，維持**高姿**。（兩者射界相互交織，一低一高的組合可避免互相誤擊。）（見圖 A-17 步驟 D。）
 4. 走廊左右兩段均清除後，火力伍恢復運動隊形。（見圖 A-17 步驟 E。）**除非小組留下警戒，否則火力伍一離開該區域，走廊就不再是已清除狀態。**
 
-> **［圖 A-17．清除 T 字形交叉口的運動隊形］**　原文圖說：Figure A-17. Movement formations to clear T-intersections
+<figure>
+  <img src="/images/ranger-handbook/fig-a-17.png" alt="圖 A-17．清除 T 字形交叉口的運動隊形" />
+  <figcaption>圖 A-17．清除 T 字形交叉口的運動隊形（原書 p.A-24）<br />原文圖說：Figure A-17. Movement formations to clear T-intersections</figcaption>
+</figure>
 
 ---
 
@@ -156,7 +207,10 @@ status: published
 
 **A-10.** 圖 A-18（原書第 A-26 頁）最能呈現 **3 人流動清除技術**。所有遊騎兵**協同作業**，彼此掩護，並專注於各自的射界。
 
-> **［圖 A-18．三人流動清除技術］**　原文圖說：Figure A-18. Three-person flow clearing technique
+<figure>
+  <img src="/images/ranger-handbook/fig-a-18.png" alt="圖 A-18．三人流動清除技術" />
+  <figcaption>圖 A-18．三人流動清除技術（原書 p.A-26）<br />原文圖說：Figure A-18. Three-person flow clearing technique</figcaption>
+</figure>
 
 ---
 

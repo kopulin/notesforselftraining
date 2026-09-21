@@ -22,13 +22,25 @@ status: published
 
 **B-2.** 雖然本書前面章節已介紹過其中部分內容，本附錄的這些速查卡仍可作為遊騎兵在野戰時的**便捷提醒**。請定期至**陸軍訓練網（Army Training Network）** 查閱更新資訊。
 
-> **［圖 B-1．簡易爆炸裝置或未爆彈藥速查卡］**　原文圖說：Figure B-1. Improvised explosive device or unexploded explosive ordnance reference card
+<figure>
+  <img src="/images/ranger-handbook/fig-b-01.png" alt="圖 B-1．簡易爆炸裝置或未爆彈藥速查卡" />
+  <figcaption>圖 B-1．簡易爆炸裝置或未爆彈藥速查卡（原書 p.B-2）<br />原文圖說：Figure B-1. Improvised explosive device or unexploded explosive ordnance reference card</figcaption>
+</figure>
 
-> **［圖 B-2．DA Form 5517 標準射界卡範例（含最終保護線）］**　原文圖說：Figure B-2. Example of DA Form 5517, Standard Range Card (with final protective line)
+<figure>
+  <img src="/images/ranger-handbook/fig-b-02.png" alt="圖 B-2．DA Form 5517 標準射界卡範例（含最終保護線）" />
+  <figcaption>圖 B-2．DA Form 5517 標準射界卡範例（含最終保護線）（原書 p.B-3）<br />原文圖說：Figure B-2. Example of DA Form 5517, Standard Range Card (with final protective line)</figcaption>
+</figure>
 
-> **［圖 B-3．DA Form 5517 標準射界卡範例］**　原文圖說：Figure B-3. Example of DA Form 5517, Standard Range Card
+<figure>
+  <img src="/images/ranger-handbook/fig-b-03.png" alt="圖 B-3．DA Form 5517 標準射界卡範例" />
+  <figcaption>圖 B-3．DA Form 5517 標準射界卡範例（原書 p.B-4）<br />原文圖說：Figure B-3. Example of DA Form 5517, Standard Range Card</figcaption>
+</figure>
 
-> **［圖 B-4．九線醫療後送申請與 MIST（傷害機轉、傷勢類型、徵象、處置）報告範例］**　原文圖說：Figure B-4. Examples of a 9-line medical evacuation request and a mechanism of injury, injury type, signs, treatment report
+<figure>
+  <img src="/images/ranger-handbook/fig-b-04.png" alt="圖 B-4．九線醫療後送申請與 MIST（傷害機轉、傷勢類型、徵象、處置）報告範例" />
+  <figcaption>圖 B-4．九線醫療後送申請與 MIST（傷害機轉、傷勢類型、徵象、處置）報告範例（原書 p.B-5）<br />原文圖說：Figure B-4. Examples of a 9-line medical evacuation request and a mechanism of injury, injury type, signs, treatment report</figcaption>
+</figure>
 
 ---
 

@@ -146,7 +146,10 @@ status: published
 - **期待類**傷患與**陣亡人員**安置於傷患集中點內遠離其他人之處，但盡可能**不讓其獨處**。
 - 視戰術狀況，**限制能見度**時可使用**化學螢光棒**標示傷患集中點的各邊。
 
-> **［圖 15-1．檢傷三角形示例］**　原文圖說：Figure 15-1. Example of triage triangle
+<figure>
+  <img src="/images/ranger-handbook/fig-15-01.png" alt="圖 15-1．檢傷三角形示例" />
+  <figcaption>圖 15-1．檢傷三角形示例（原書 p.15-6）<br />原文圖說：Figure 15-1. Example of triage triangle</figcaption>
+</figure>
 
 **15-23.** **檢傷分類**居於關鍵地位，且在傷患仍留置地面期間須**持續重新評估**。分類類別如下：
 
@@ -193,7 +196,10 @@ status: published
 
 **15-34.** **倒 Y 標示**的佈設方式：先定出**中心點**；向**左** 7 公尺放一個標示物；回到中心點，向**右** 7 公尺放一個；再回到中心點，向**上** 14 公尺放一個；最後再向上 7 公尺放置最後一個。圖 15-2 為所排出、形似**倒置大寫字母 Y** 的標示配置。
 
-> **［圖 15-2．倒 Y 與 NATO T 佈設］**　原文圖說：Figure 15-2. Inverted Y and NATO T layouts
+<figure>
+  <img src="/images/ranger-handbook/fig-15-02.png" alt="圖 15-2．倒 Y 與 NATO T 佈設" />
+  <figcaption>圖 15-2．倒 Y 與 NATO T 佈設（原書 p.15-9）<br />原文圖說：Figure 15-2. Inverted Y and NATO T layouts</figcaption>
+</figure>
 
 ---
 

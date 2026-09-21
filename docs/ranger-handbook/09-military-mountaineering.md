@@ -187,9 +187,15 @@ status: published
 
 **9-28.** **保護支點（protection）** 是用來建立固定點的器材（天然或人工）的統稱。保護支點與攀登者、確保者及攀登繩結合，構成攀登隊的生命線：繩索連接兩名攀登者，保護支點則將他們連接到岩壁或冰面。圖 9-1 顯示可拆除的人工保護支點，例如**岩楔**與**彈簧凸輪**。第 9-8 頁圖 9-2 顯示固定式（通常為永久性）人工保護支點。
 
-> **［圖 9-1．岩壁用傳統（可拆除）保護支點範例］**　原文圖說：Figure 9-1. Examples of traditional (removable) protection used on rocks
+<figure>
+  <img src="/images/ranger-handbook/fig-09-01.png" alt="圖 9-1．岩壁用傳統（可拆除）保護支點範例" />
+  <figcaption>圖 9-1．岩壁用傳統（可拆除）保護支點範例（原書 p.9-7）<br />原文圖說：Figure 9-1. Examples of traditional (removable) protection used on rocks</figcaption>
+</figure>
 
-> **［圖 9-2．岩壁用固定式（永久或半永久）保護支點範例］**　原文圖說：Figure 9-2. Examples of fixed (permanent or semipermanent) protection used on rocks
+<figure>
+  <img src="/images/ranger-handbook/fig-09-02.png" alt="圖 9-2．岩壁用固定式（永久或半永久）保護支點範例" />
+  <figcaption>圖 9-2．岩壁用固定式（永久或半永久）保護支點範例（原書 p.9-8）<br />原文圖說：Figure 9-2. Examples of fixed (permanent or semipermanent) protection used on rocks</figcaption>
+</figure>
 
 ---
 
@@ -205,7 +211,10 @@ status: published
 
 - **a. 人工固定點**：完全使用人工材料建立。最常見的固定點使用傳統或固定式保護支點（見圖 9-3）。
 
-> **［圖 9-3．使用固定式人工保護支點的三點預先均力固定點範例］**　原文圖說：Figure 9-3. Example of a three-point, pre-equalized anchor using fixed artificial protection
+<figure>
+  <img src="/images/ranger-handbook/fig-09-03.png" alt="圖 9-3．使用固定式人工保護支點的三點預先均力固定點範例" />
+  <figcaption>圖 9-3．使用固定式人工保護支點的三點預先均力固定點範例（原書 p.9-9）<br />原文圖說：Figure 9-3. Example of a three-point, pre-equalized anchor using fixed artificial protection</figcaption>
+</figure>
 
 - **b. 天然固定點**：通常非常堅固，而且往往只需極少裝備就能簡單建立。最常見的是**樹木、灌木與巨石**。所有天然固定點只需要一個簡單的連接繩索方式。無論使用哪種天然固定點，都必須堅固到足以承受負重的全部重量。
   - (1) **樹木**可能是使用最廣泛的固定點。在多岩地形中，樹木的根系通常很淺，可推拉樹幹檢查其扎根程度。**固定點盡量設低**，以免對樹木產生過大槓桿作用。在柔軟、會流樹液的樹上加墊，避免樹液沾到繩索與扁帶環。
@@ -213,7 +222,10 @@ status: published
 - **d.** 若沒有比灌木或矮樹叢更適合的固定點，將繩索繞過數叢灌木的根部。與樹木一樣，固定繩盡量設低以減少對固定點的槓桿作用。確保所有植物都健康且牢牢扎根。
 - **e. 無張力固定點（tensionless anchor）** 適用於繩橋等**高負重設施**。繩索在固定點上的纏繞圈（見圖 9-4）吸收設施的張力，使張力不會作用在繩結與鉤環上。至少纏繞 **4 圈**；小樹、管子或欄杆等光滑的固定點，有時需要再多繞幾圈。由上往下纏繞。在繩端打一個固定繩圈，並以鉤環鬆鬆地扣回繩索上。
 
-> **［圖 9-4．無張力天然固定點範例］**　原文圖說：Figure 9-4. Example of tensionless, natural anchor
+<figure>
+  <img src="/images/ranger-handbook/fig-09-04.png" alt="圖 9-4．無張力天然固定點範例" />
+  <figcaption>圖 9-4．無張力天然固定點範例（原書 p.9-10）<br />原文圖說：Figure 9-4. Example of tensionless, natural anchor</figcaption>
+</figure>
 
 > **譯註**：9-30 段原文 b. 項下只有 (1) 樹木一小項，接著 c.、d.、e. 與 b. 並列，但內容（岩石、灌木、無張力固定點）依性質應屬 b. 天然固定點的子項，疑為編號層級錯誤，譯文依原文層級照列。
 
@@ -234,55 +246,94 @@ status: published
 - **繞一圈半（round turn）**——將繩索繞物體 1 又 1/2 圈所形成。適用於在小直徑固定點（3 英寸［8 公分］或更細）上分散負重；在較大直徑的固定點上，也可用來減少繩結張力或增加摩擦力。
 - **整理繩結（dress）**——正確排列繩結的各部分，去除不必要的扭結、扭轉與鬆弛，使繩結各部分彼此緊密接觸。
 
-> **［圖 9-5．繩索術語］**　原文圖說：Figure 9-5. Rope terms
+<figure>
+  <img src="/images/ranger-handbook/fig-09-05.png" alt="圖 9-5．繩索術語" />
+  <figcaption>圖 9-5．繩索術語（原書 p.9-11）<br />原文圖說：Figure 9-5. Rope terms</figcaption>
+</figure>
 
 **9-32.** **平結（square knot）**（見圖 9-6）用來連接兩條**直徑相同**的繩索。此結由兩個相扣的繩耳構成，兩個動端從靜端的同一側穿出。每條繩尾在靜端上以一個單結固定。整理繩結時，動端至少留 **4 英寸（10 公分）** 繩尾。
 
-> **［圖 9-6．平結］**　原文圖說：Figure 9-6. Square knot
+<figure>
+  <img src="/images/ranger-handbook/fig-09-06.png" alt="圖 9-6．平結" />
+  <figcaption>圖 9-6．平結（原書 p.9-32）<br />原文圖說：Figure 9-6. Square knot</figcaption>
+</figure>
 
 **9-33.** **繞一圈半加兩個半結（round turn with two half hitches）**（見圖 9-7）是一種**持續受力**的固定點繩結。繩索繞固定點完整一圈（此結因此得名「繞圈」），兩股繩平行並接觸但不交叉。兩個半結緊貼繞圈整理好，**鎖定橫桿**朝上。整理繩結時，動端至少留 4 英寸（10 公分）繩尾。
 
-> **［圖 9-7．繞一圈半加兩個半結］**　原文圖說：Figure 9-7. Round turn with two half hitches
+<figure>
+  <img src="/images/ranger-handbook/fig-09-07.png" alt="圖 9-7．繞一圈半加兩個半結" />
+  <figcaption>圖 9-7．繞一圈半加兩個半結（原書 p.9-32）<br />原文圖說：Figure 9-7. Round turn with two half hitches</figcaption>
+</figure>
 
 **9-34.** 打**雙八字結（double figure eight knot）**（見圖 9-8）時，以**八字繩圈結**在繩端形成固定繩圈，可打在繩端或繩索上任何位置。兩股繩彼此平行，形成八字形，且八字中**沒有扭轉**，即構成八字繩圈結。固定繩圈要大到能扣入鉤環。整理繩結時，動端至少留 4 英寸（10 公分）繩尾。
 
-> **［圖 9-8．雙八字結］**　原文圖說：Figure 9-8. Double figure eight knot
+<figure>
+  <img src="/images/ranger-handbook/fig-09-08.png" alt="圖 9-8．雙八字結" />
+  <figcaption>圖 9-8．雙八字結（原書 p.9-13）<br />原文圖說：Figure 9-8. Double figure eight knot</figcaption>
+</figure>
 
 **9-35.** **繩端雙套結（end-of-the-rope clove hitch）**（見圖 9-9）是一種需要**持續受力**的中間固定點繩結。繞固定點兩圈，鎖定橫桿從一側斜跨到另一側。兩圈之間的間隔**不超過一條繩寬**。鎖定橫桿位於**受力方向的反側**。整理繩結時，動端至少留 4 英寸（10 公分）繩尾。
 
-> **［圖 9-9．繩端雙套結］**　原文圖說：Figure 9-9. End-of-the-rope clove hitch
+<figure>
+  <img src="/images/ranger-handbook/fig-09-09.png" alt="圖 9-9．繩端雙套結" />
+  <figcaption>圖 9-9．繩端雙套結（原書 p.9-13）<br />原文圖說：Figure 9-9. End-of-the-rope clove hitch</figcaption>
+</figure>
 
 **9-36.** **繩中雙套結（middle-of-the-rope clove hitch）**（見圖 9-10）用來將繩索中段固定在固定點上。此結繞固定點兩圈，鎖定橫桿從一側斜跨到另一側。兩圈之間的間隔不超過一條繩寬。鎖定橫桿位於受力方向的反側。
 
-> **［圖 9-10．繩中雙套結］**　原文圖說：Figure 9-10. Middle-of-the-rope clove hitch
+<figure>
+  <img src="/images/ranger-handbook/fig-09-10.png" alt="圖 9-10．繩中雙套結" />
+  <figcaption>圖 9-10．繩中雙套結（原書 p.9-36）<br />原文圖說：Figure 9-10. Middle-of-the-rope clove hitch</figcaption>
+</figure>
 
 **9-37.** **垂降座繩（rappel seat）** 是用於垂降與攀登的繩索吊帶，可用左手或右手打法。腿帶**不交叉**，並緊貼置於臀部中央（見圖 9-11 步驟 3）。腿帶在腰間繩上形成鎖定半結（見圖 9-11 步驟 3）。在**右髖部**打平結（見圖 9-11 步驟 4），並以兩個單結收尾（見圖 9-11 步驟 5）。將鉤環扣入所有繩股，**開口閘門朝上並朝外**（見圖 9-11 步驟 6）。鉤環不得接觸平結或單結。垂降座繩要緊到**無法在人與吊帶之間塞入一個拳頭**。
 
-> **［圖 9-11．垂降座繩］**　原文圖說：Figure 9-11. Rappel seat
+<figure>
+  <img src="/images/ranger-handbook/fig-09-11.png" alt="圖 9-11．垂降座繩" />
+  <figcaption>圖 9-11．垂降座繩（原書 p.9-15）<br />原文圖說：Figure 9-11. Rappel seat</figcaption>
+</figure>
 
 **9-38.** **回穿八字結（rerouted figure eight knot）**（見圖 9-12）是一種固定點繩結，也用來將攀登者連接到攀登繩。在繩上打一個八字結，將動端繞過固定點，再沿原路回穿形成雙八字結。打結時不得有扭轉。整理繩結時，動端至少留 4 英寸（10 公分）繩尾。
 
-> **［圖 9-12．回穿八字結］**　原文圖說：Figure 9-12. Rerouted figure eight knot
+<figure>
+  <img src="/images/ranger-handbook/fig-09-12.png" alt="圖 9-12．回穿八字結" />
+  <figcaption>圖 9-12．回穿八字結（原書 p.9-38）<br />原文圖說：Figure 9-12. Rerouted figure eight knot</figcaption>
+</figure>
 
 **9-39.** **八字活結（figure eight slipknot）**（見圖 9-13）在繩索中段形成**可調整的繩耳**。此結呈八字形，繩耳的兩股繩穿過八字的同一個繩圈。繩耳可藉由滑動段調整大小。
 
-> **［圖 9-13．八字活結］**　原文圖說：Figure 9-13. Figure eight slipknot
+<figure>
+  <img src="/images/ranger-handbook/fig-09-13.png" alt="圖 9-13．八字活結" />
+  <figcaption>圖 9-13．八字活結（原書 p.9-38）<br />原文圖說：Figure 9-13. Figure eight slipknot</figcaption>
+</figure>
 
 **9-40.** **義大利半扣（Munter hitch）**（見圖 9-14）是最常用的確保方式之一，所需裝備很少。將繩索穿過一個**鎖定式梨形鉤環**，再折回繞在自身上。確保者以**制動手**將動端向後繞回自身，控制下降速度。
 
-> **［圖 9-14．義大利半扣］**　原文圖說：Figure 9-14. Munter hitch
+<figure>
+  <img src="/images/ranger-handbook/fig-09-14.png" alt="圖 9-14．義大利半扣" />
+  <figcaption>圖 9-14．義大利半扣（原書 p.9-17）<br />原文圖說：Figure 9-14. Munter hitch</figcaption>
+</figure>
 
 **9-41.** **義大利半扣騾結（Munter mule knot）**（見圖 9-15）可讓使用者停止繩索通過義大利半扣。此結只要一拉繩索就能輕鬆釋放張力，且釋放過程平順可控，是許多繩索系統的**關鍵繩結**。打法：先在受力狀態下打一個義大利半扣；保持張力，在主繩兩側、主繩後方的制動繩上做出兩個繩圈；在主繩上方將一個繩圈穿過另一個，並在保持張力下小心拉緊。最後以從繩結突出的繩耳打一個單結固定，**打單結時要將主繩一併包入**。
 
-> **［圖 9-15．義大利半扣騾結］**　原文圖說：Figure 9-15. Munter mule knot
+<figure>
+  <img src="/images/ranger-handbook/fig-09-15.png" alt="圖 9-15．義大利半扣騾結" />
+  <figcaption>圖 9-15．義大利半扣騾結（原書 p.9-17）<br />原文圖說：Figure 9-15. Munter mule knot</figcaption>
+</figure>
 
 **9-42.** **普魯士結（Prusik knot）**（見圖 9-16）用來將一條可移動的繩索連接到固定繩上。此結有兩個繞一圈半，鎖定橫桿與繩索靜端垂直。在距鎖定橫桿 6 英寸（15 公分）以內，以雙八字結或稱人結固定。整理繩結時，動端至少留 4 英寸（10 公分）繩尾。普魯士結可打在繩端或繩中。
 
-> **［圖 9-16．普魯士結］**　原文圖說：Figure 9-16. Prusik knot
+<figure>
+  <img src="/images/ranger-handbook/fig-09-16.png" alt="圖 9-16．普魯士結" />
+  <figcaption>圖 9-16．普魯士結（原書 p.9-42）<br />原文圖說：Figure 9-16. Prusik knot</figcaption>
+</figure>
 
 **9-43.** **稱人結（bowline）**（見圖 9-17）用來將繩端繫在固定點上，或在繩端打出單一固定繩圈。打法：將動端由右向左繞過固定點（攀登者面向固定點時）；在靜端（攀登者右側）朝固定點方向做一個上手繩圈；將手伸進繩圈拉出一個繩耳；將動端（攀登者左側）穿過繩耳並折回自身；接著整理繩結；最後以繩耳的繩尾打一個單結。
 
-> **［圖 9-17．稱人結］**　原文圖說：Figure 9-17. Bowline
+<figure>
+  <img src="/images/ranger-handbook/fig-09-17.png" alt="圖 9-17．稱人結" />
+  <figcaption>圖 9-17．稱人結（原書 p.9-19）<br />原文圖說：Figure 9-17. Bowline</figcaption>
+</figure>
 
 ---
 
@@ -292,15 +343,24 @@ status: published
 
 **9-45.** **身體確保（body belay）**（見圖 9-18）以確保者的身體產生摩擦。將繩索繞過確保者的身體，產生制止攀登者墜落所需的摩擦力。由於身體要承受負重的全部重量，須格外謹慎。
 
-> **［圖 9-18．身體確保法］**　原文圖說：Figure 9-18. Body belay method
+<figure>
+  <img src="/images/ranger-handbook/fig-09-18.png" alt="圖 9-18．身體確保法" />
+  <figcaption>圖 9-18．身體確保法（原書 p.9-20）<br />原文圖說：Figure 9-18. Body belay method</figcaption>
+</figure>
 
 **9-46.** **機械式確保（mechanical belay）** 使用機械器材（見圖 9-19）協助確保者控制繩索，例如垂降時。許多登山器材都可用來建立機械式確保，大多數機械式確保器**兼作垂降器**。
 
-> **［圖 9-19．機械式確保器範例］**　原文圖說：Figure 9-19. Examples of mechanical belay devices
+<figure>
+  <img src="/images/ranger-handbook/fig-09-19.png" alt="圖 9-19．機械式確保器範例" />
+  <figcaption>圖 9-19．機械式確保器範例（原書 p.9-21）<br />原文圖說：Figure 9-19. Examples of mechanical belay devices</figcaption>
+</figure>
 
 **9-47.** **ATC（Air Traffic Controller）** 是一種**鎖定式機械確保器**（見圖 9-20）。在兩個相反方向施加張力時，它會自行鎖緊，讓確保者只需以制動手施加很小的力量，就能控制下降速度或制止攀登者墜落。
 
-> **［圖 9-20．ATC 確保器］**　原文圖說：Figure 9-20. Air traffic controller
+<figure>
+  <img src="/images/ranger-handbook/fig-09-20.png" alt="圖 9-20．ATC 確保器" />
+  <figcaption>圖 9-20．ATC 確保器（原書 p.9-21）<br />原文圖說：Figure 9-20. Air traffic controller</figcaption>
+</figure>
 
 > **譯註**：Air Traffic Controller（ATC）原為管狀確保器的商品名，後成為這類器材的通稱，譯文保留縮寫 ATC。
 
@@ -367,13 +427,25 @@ status: published
 
 **9-54.** 一個**三人拉繩組**從排中上前。**收緊繩索的人數不得超過 3 人**，人數更多可能使繩索過度拉緊而接近斷裂。繩橋拉得夠緊後，架橋組以兩個半結固定運輸收緊系統（見圖 9-21），損失的張力**不超過 4 英寸（10 公分）**。人員以**突擊隊爬行法**（見圖 9-22）、**泰洛林橫渡法**（見圖 9-23）或**猴子爬行法**（見第 9-26 頁圖 9-24）通過。
 
-> **［圖 9-21．運輸收緊系統範例］**　原文圖說：Figure 9-21. Example of transport-tightening system
+<figure>
+  <img src="/images/ranger-handbook/fig-09-21.png" alt="圖 9-21．運輸收緊系統範例" />
+  <figcaption>圖 9-21．運輸收緊系統範例（原書 p.9-24）<br />原文圖說：Figure 9-21. Example of transport-tightening system</figcaption>
+</figure>
 
-> **［圖 9-22．突擊隊爬行法］**　原文圖說：Figure 9-22. Commando crawl method
+<figure>
+  <img src="/images/ranger-handbook/fig-09-22.png" alt="圖 9-22．突擊隊爬行法" />
+  <figcaption>圖 9-22．突擊隊爬行法（原書 p.9-25）<br />原文圖說：Figure 9-22. Commando crawl method</figcaption>
+</figure>
 
-> **［圖 9-23．垂降座繩（泰洛林橫渡）法］**　原文圖說：Figure 9-23. Rappel seat (Tyrolean traverse) method
+<figure>
+  <img src="/images/ranger-handbook/fig-09-23.png" alt="圖 9-23．垂降座繩（泰洛林橫渡）法" />
+  <figcaption>圖 9-23．垂降座繩（泰洛林橫渡）法（原書 p.9-25）<br />原文圖說：Figure 9-23. Rappel seat (Tyrolean traverse) method</figcaption>
+</figure>
 
-> **［圖 9-24．猴子爬行法］**　原文圖說：Figure 9-24. Monkey crawl method
+<figure>
+  <img src="/images/ranger-handbook/fig-09-24.png" alt="圖 9-24．猴子爬行法" />
+  <figcaption>圖 9-24．猴子爬行法（原書 p.9-26）<br />原文圖說：Figure 9-24. Monkey crawl method</figcaption>
+</figure>
 
 ---
 
@@ -407,7 +479,10 @@ status: published
 7. 在形成的兩個繩圈中扣入一個鎖定式鉤環，再將動端放入該鉤環。**不得以機械式上升器作為可移動普魯士系統。**
 8. 將動端移回與固定點普魯士系統平行的軸線上。在動端安排拉繩組，並派額外人員監看各普魯士結。
 
-> **［圖 9-25．Z 形滑輪系統］**　原文圖說：Figure 9-25. Z-pulley system
+<figure>
+  <img src="/images/ranger-handbook/fig-09-25.png" alt="圖 9-25．Z 形滑輪系統" />
+  <figcaption>圖 9-25．Z 形滑輪系統（原書 p.9-28）<br />原文圖說：Figure 9-25. Z-pulley system</figcaption>
+</figure>
 
 ---
 
@@ -417,19 +492,34 @@ status: published
 
 **9-58.** **身體垂降（body rappel）** 快速又簡單（見圖 9-26），但**只能用於中等坡度**——**絕不可用於垂直或倒懸地形**。戴手套可防止繩索灼傷。
 
-> **［圖 9-26．身體垂降法］**　原文圖說：Figure 9-26. Body rappel method
+<figure>
+  <img src="/images/ranger-handbook/fig-09-26.png" alt="圖 9-26．身體垂降法" />
+  <figcaption>圖 9-26．身體垂降法（原書 p.9-29）<br />原文圖說：Figure 9-26. Body rappel method</figcaption>
+</figure>
 
 **9-59.** **座式髖部垂降（seat hip rappel）** 使用**八字下降器**（見圖 9-27）或**鉤環纏繞下降器**（見第 9-30 頁圖 9-28）。將下降器扣入繩環座繩，再固定到垂降者身上，讓垂降者有足夠的摩擦力平順、可控地下降。
 
-> **［圖 9-27．八字下降器］**　原文圖說：Figure 9-27. Figure eight descender
+<figure>
+  <img src="/images/ranger-handbook/fig-09-27.png" alt="圖 9-27．八字下降器" />
+  <figcaption>圖 9-27．八字下降器（原書 p.9-29）<br />原文圖說：Figure 9-27. Figure eight descender</figcaption>
+</figure>
 
-> **［圖 9-28．鉤環纏繞下降器與座式髖部垂降特寫（以鉤環纏繞座式髖部下降器示範）］**　原文圖說：Figure 9-28. Closeup of carabiner wrap descender and the seat hip rappel (shown with carabiner wrap seat hip descender)
+<figure>
+  <img src="/images/ranger-handbook/fig-09-28.png" alt="圖 9-28．鉤環纏繞下降器與座式髖部垂降特寫（以鉤環纏繞座式髖部下降器示範）" />
+  <figcaption>圖 9-28．鉤環纏繞下降器與座式髖部垂降特寫（以鉤環纏繞座式髖部下降器示範）（原書 p.9-30）<br />原文圖說：Figure 9-28. Closeup of carabiner wrap descender and the seat hip rappel (shown with carabiner wrap seat hip descender)</figcaption>
+</figure>
 
 **9-60.** 採**延伸式 ATC 垂降**時，可能的話將 ATC 延伸到遠離身體的位置，可用繩環達成（見圖 9-29）。這會降低垂降者的重心，使**通過崖緣**更平順。以**雙手在器材下方**控制下降（見圖 9-30）。
 
-> **［圖 9-29．扁帶延伸］**　原文圖說：Figure 9-29. Sling extension
+<figure>
+  <img src="/images/ranger-handbook/fig-09-29.png" alt="圖 9-29．扁帶延伸" />
+  <figcaption>圖 9-29．扁帶延伸（原書 p.9-30）<br />原文圖說：Figure 9-29. Sling extension</figcaption>
+</figure>
 
-> **［圖 9-30．延伸式 ATC 垂降］**　原文圖說：Figure 9-30. Extended air traffic controller rappel
+<figure>
+  <img src="/images/ranger-handbook/fig-09-30.png" alt="圖 9-30．延伸式 ATC 垂降" />
+  <figcaption>圖 9-30．延伸式 ATC 垂降（原書 p.9-30）<br />原文圖說：Figure 9-30. Extended air traffic controller rappel</figcaption>
+</figure>
 
 ---
 

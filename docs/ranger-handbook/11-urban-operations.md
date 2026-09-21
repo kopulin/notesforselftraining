@@ -212,11 +212,20 @@ status: published
 
 **11-28.** 進入並清除房間，見第 8 章戰鬥演練 07-SQD-D9509。圖 11-1、11-2 與第 11-10 頁圖 11-3 顯示遊騎兵如何清除房間。
 
-> **［圖 11-1．前兩名官兵進入清除房間］**　原文圖說：Figure 11-1. First two Soldiers entering to clear a room
+<figure>
+  <img src="/images/ranger-handbook/fig-11-01.png" alt="圖 11-1．前兩名官兵進入清除房間" />
+  <figcaption>圖 11-1．前兩名官兵進入清除房間（原書 p.11-9）<br />原文圖說：Figure 11-1. First two Soldiers entering to clear a room</figcaption>
+</figure>
 
-> **［圖 11-2．第三名官兵進入房間並清除責任區］**　原文圖說：Figure 11-2. Third soldier entering room and clearing sector
+<figure>
+  <img src="/images/ranger-handbook/fig-11-02.png" alt="圖 11-2．第三名官兵進入房間並清除責任區" />
+  <figcaption>圖 11-2．第三名官兵進入房間並清除責任區（原書 p.11-9）<br />原文圖說：Figure 11-2. Third soldier entering room and clearing sector</figcaption>
+</figure>
 
-> **［圖 11-3．第四名官兵進入房間並控制責任區］**　原文圖說：Figure 11-3. Fourth Soldier entering room and dominating sector
+<figure>
+  <img src="/images/ranger-handbook/fig-11-03.png" alt="圖 11-3．第四名官兵進入房間並控制責任區" />
+  <figcaption>圖 11-3．第四名官兵進入房間並控制責任區（原書 p.11-10）<br />原文圖說：Figure 11-3. Fourth Soldier entering room and dominating sector</figcaption>
+</figure>
 
 **11-29.** **鎖定房間**的程序步驟如下。
 

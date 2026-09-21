@@ -149,11 +149,17 @@ status: published
 | 目標集合點位置。 | 目標符號。 |
 | 呼號與頻率（主要與預備）。 | 填寫完成的說明、位置與備註欄。 |
 
-> **［圖 3-1．保密版火力支援透明圖］**　原文圖說：Figure 3-1. Sterile fire support overlay
+<figure>
+  <img src="/images/ranger-handbook/fig-03-01.png" alt="圖 3-1．保密版火力支援透明圖" />
+  <figcaption>圖 3-1．保密版火力支援透明圖（原書 p.3-7）<br />原文圖說：Figure 3-1. Sterile fire support overlay</figcaption>
+</figure>
 >
 > **圖例**：一張空白透明圖，只有兩個對角的方框形定位標記與一個十字方格交點，不含任何目標或路線資訊，被敵方取得也不會洩漏計畫。
 
-> **［圖 3-2．非保密版火力支援透明圖］**　原文圖說：Figure 3-2. Nonsterile fire support overlay
+<figure>
+  <img src="/images/ranger-handbook/fig-03-02.png" alt="圖 3-2．非保密版火力支援透明圖" />
+  <figcaption>圖 3-2．非保密版火力支援透明圖（原書 p.3-8）<br />原文圖說：Figure 3-2. Nonsterile fire support overlay</figcaption>
+</figure>
 >
 > **圖例**：示範的班級火力支援透明圖。左上角標頭：A 連第 1 排第 1 班；優先目標 AB1：獅子目標（GA 246851），地形特徵：山丘；日期 170700 2014 年 1 月；出發 171300 2014 年 1 月；返回 180300 2014 年 1 月；地圖：達比營區特別圖 1:50,000。右上角：目標集合點 GL GA 123456，地形特徵：排水溝；會合目標集合點 GL GA 789123，地形特徵：馬鞍部；呼號 A-1-1；頻率：主要 SC PT 23000、預備 SC PT 22000。
 > 中央為**作戰時程（OPSKED）代字表**：1 出發／2 完成滲透／3 進占目標集合點／4 完成目標區行動——人員武器裝備 100%／5 進占會合目標集合點／6 抵達卡車會合點／7 進入搭機區態勢（僅空中運動）／8 進入延伸警戒集合點／達比營區／9 人員武器裝備 100%。
@@ -334,7 +340,10 @@ status: published
   - (2) 風向與危害。
   - (3) 威脅，例如防空砲兵或輕兵器。
 
-> **［圖 3-3．近接空中支援申請範例］**　原文圖說：Figure 3-3. Example of a close air support request
+<figure>
+  <img src="/images/ranger-handbook/fig-03-03.png" alt="圖 3-3．近接空中支援申請範例" />
+  <figcaption>圖 3-3．近接空中支援申請範例（原書 p.3-14）<br />原文圖說：Figure 3-3. Example of a close air support request</figcaption>
+</figure>
 >
 > **圖例**：**聯合終端攻擊管制員（JTAC）** 使用的九行申請表範例（手寫欄位為示範值）：
 > 開頭：「（飛機呼號），這裡是（JTAC／觀測員呼號）。」「第（1、2、3）類管制。」

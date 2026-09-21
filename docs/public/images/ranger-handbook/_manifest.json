@@ -1,0 +1,1452 @@
+[
+ {
+  "fid": "2-1",
+  "page": 37,
+  "file": "fig-02-01.png",
+  "w": 621,
+  "h": 381,
+  "bytes": 60192,
+  "caption": "Figure 2-1. Gauge–evaluate–analyze–reduce framework",
+  "printed": "2-4"
+ },
+ {
+  "fid": "2-2",
+  "page": 79,
+  "file": "fig-02-02.png",
+  "w": 781,
+  "h": 647,
+  "bytes": 237467,
+  "caption": "Figure 2-2. Terrain model",
+  "printed": "2-46"
+ },
+ {
+  "fid": "3-1",
+  "page": 86,
+  "file": "fig-03-01.png",
+  "w": 779,
+  "h": 447,
+  "bytes": 8042,
+  "caption": "Figure 3-1. Sterile fire support overlay",
+  "printed": "3-7"
+ },
+ {
+  "fid": "3-2",
+  "page": 87,
+  "file": "fig-03-02.png",
+  "w": 652,
+  "h": 775,
+  "bytes": 226122,
+  "caption": "Figure 3-2. Nonsterile fire support overlay",
+  "printed": "3-8"
+ },
+ {
+  "fid": "3-3",
+  "page": 93,
+  "file": "fig-03-03.png",
+  "w": 598,
+  "h": 777,
+  "bytes": 178567,
+  "caption": "Figure 3-3. Example of a close air support request",
+  "printed": "3-14"
+ },
+ {
+  "fid": "4-1",
+  "page": 107,
+  "file": "fig-04-01.png",
+  "w": 779,
+  "h": 361,
+  "bytes": 81784,
+  "caption": "Figure 4-1. Curvature of the Earth",
+  "printed": "4-8"
+ },
+ {
+  "fid": "5-1",
+  "page": 110,
+  "file": "fig-05-01.png",
+  "w": 571,
+  "h": 437,
+  "bytes": 62742,
+  "caption": "Figure 5-1. Technique for cutting shock tube",
+  "printed": "5-3"
+ },
+ {
+  "fid": "5-2",
+  "page": 111,
+  "file": "fig-05-02.png",
+  "w": 780,
+  "h": 595,
+  "bytes": 175683,
+  "caption": "Figure 5-2. Firing system components",
+  "printed": "5-4"
+ },
+ {
+  "fid": "5-3",
+  "page": 112,
+  "file": "fig-05-03.png",
+  "w": 780,
+  "h": 595,
+  "bytes": 126873,
+  "caption": "Figure 5-3. Technique for attaching shock tube to M81s",
+  "printed": "5-5"
+ },
+ {
+  "fid": "5-4",
+  "page": 113,
+  "file": "fig-05-04.png",
+  "w": 782,
+  "h": 499,
+  "bytes": 133899,
+  "caption": "Figure 5-4. Dual initiating system",
+  "printed": "5-6"
+ },
+ {
+  "fid": "5-5",
+  "page": 114,
+  "file": "fig-05-05.png",
+  "w": 621,
+  "h": 401,
+  "bytes": 81972,
+  "caption": "Figure 5-5. British J initiating system",
+  "printed": "5-7"
+ },
+ {
+  "fid": "5-6",
+  "page": 115,
+  "file": "fig-05-06.png",
+  "w": 561,
+  "h": 215,
+  "bytes": 12751,
+  "caption": "Figure 5-6. Demolitions effects simulator charge – constructed system",
+  "printed": "5-8"
+ },
+ {
+  "fid": "5-7",
+  "page": 115,
+  "file": "fig-05-07.png",
+  "w": 394,
+  "h": 301,
+  "bytes": 23973,
+  "caption": "Figure 5-7. Dual initiated demolitions effects simulator charge",
+  "printed": "5-8"
+ },
+ {
+  "fid": "5-8",
+  "page": 116,
+  "file": "fig-05-08.png",
+  "w": 561,
+  "h": 427,
+  "bytes": 89726,
+  "caption": "Figure 5-8. Demolitions effects simulator charge with uli knot and 12 to 18 inches of detonating",
+  "printed": "5-9"
+ },
+ {
+  "fid": "5-9",
+  "page": 117,
+  "file": "fig-05-09.png",
+  "w": 600,
+  "h": 459,
+  "bytes": 29601,
+  "caption": "Figure 5-9. Demolitions effects simulator charge cardboard cutout dimensions",
+  "printed": "5-10"
+ },
+ {
+  "fid": "6-1",
+  "page": 118,
+  "file": "fig-06-01.png",
+  "w": 779,
+  "h": 480,
+  "bytes": 61889,
+  "caption": "Figure 6-1. Formation types",
+  "printed": "6-1"
+ },
+ {
+  "fid": "6-10",
+  "page": 132,
+  "file": "fig-06-10.png",
+  "w": 237,
+  "h": 301,
+  "bytes": 38004,
+  "caption": "Figure 6-10. Map check signal",
+  "printed": "6-15"
+ },
+ {
+  "fid": "6-11",
+  "page": 132,
+  "file": "fig-06-11.png",
+  "w": 313,
+  "h": 301,
+  "bytes": 40029,
+  "caption": "Figure 6-11. Halt signal",
+  "printed": "6-15"
+ },
+ {
+  "fid": "6-12",
+  "page": 132,
+  "file": "fig-06-12.png",
+  "w": 363,
+  "h": 301,
+  "bytes": 41769,
+  "caption": "Figure 6-12. Take a knee signal",
+  "printed": "6-15"
+ },
+ {
+  "fid": "6-13",
+  "page": 133,
+  "file": "fig-06-13.png",
+  "w": 278,
+  "h": 301,
+  "bytes": 32741,
+  "caption": "Figure 6-13. Move to the prone signal",
+  "printed": "6-16"
+ },
+ {
+  "fid": "6-14",
+  "page": 133,
+  "file": "fig-06-14.png",
+  "w": 205,
+  "h": 301,
+  "bytes": 29213,
+  "caption": "Figure 6-14. Pace count signal",
+  "printed": "6-16"
+ },
+ {
+  "fid": "6-15",
+  "page": 133,
+  "file": "fig-06-15.png",
+  "w": 215,
+  "h": 301,
+  "bytes": 34564,
+  "caption": "Figure 6-15. Headcount signal",
+  "printed": "6-16"
+ },
+ {
+  "fid": "6-16",
+  "page": 133,
+  "file": "fig-06-16.png",
+  "w": 259,
+  "h": 301,
+  "bytes": 38267,
+  "caption": "Figure 6-16. Danger area signal",
+  "printed": "6-16"
+ },
+ {
+  "fid": "6-17",
+  "page": 134,
+  "file": "fig-06-17.png",
+  "w": 253,
+  "h": 301,
+  "bytes": 37110,
+  "caption": "Figure 6-17. Freeze signal",
+  "printed": "6-17"
+ },
+ {
+  "fid": "6-18",
+  "page": 134,
+  "file": "fig-06-18.png",
+  "w": 291,
+  "h": 301,
+  "bytes": 28384,
+  "caption": "Figure 6-18. Number signals",
+  "printed": "6-17"
+ },
+ {
+  "fid": "6-2",
+  "page": 121,
+  "file": "fig-06-02.png",
+  "w": 781,
+  "h": 555,
+  "bytes": 231187,
+  "caption": "Figure 6-2. Example of squad bounding overwatch",
+  "printed": "6-4"
+ },
+ {
+  "fid": "6-3",
+  "page": 122,
+  "file": "fig-06-03.png",
+  "w": 779,
+  "h": 363,
+  "bytes": 177603,
+  "caption": "Figure 6-3. Example of platoon bounding overwatch",
+  "printed": "6-5"
+ },
+ {
+  "fid": "6-4",
+  "page": 127,
+  "file": "fig-06-04.png",
+  "w": 781,
+  "h": 639,
+  "bytes": 237198,
+  "caption": "Figure 6-4. Examples of linear danger area actions",
+  "printed": "6-10"
+ },
+ {
+  "fid": "6-5",
+  "page": 129,
+  "file": "fig-06-05.png",
+  "w": 780,
+  "h": 585,
+  "bytes": 273059,
+  "caption": "Figure 6-5. Examples of crossing a small, open danger area",
+  "printed": "6-12"
+ },
+ {
+  "fid": "6-6",
+  "page": 131,
+  "file": "fig-06-06.png",
+  "w": 215,
+  "h": 301,
+  "bytes": 30384,
+  "caption": "Figure 6-6. Assemble or rally signal",
+  "printed": "6-14"
+ },
+ {
+  "fid": "6-7",
+  "page": 131,
+  "file": "fig-06-07.png",
+  "w": 301,
+  "h": 301,
+  "bytes": 40317,
+  "caption": "Figure 6-7. Join me, follow me,",
+  "printed": "6-14"
+ },
+ {
+  "fid": "6-8",
+  "page": 131,
+  "file": "fig-06-08.png",
+  "w": 641,
+  "h": 301,
+  "bytes": 96949,
+  "caption": "Figure 6-8. Enemy in sight signal",
+  "printed": "6-14"
+ },
+ {
+  "fid": "6-9",
+  "page": 132,
+  "file": "fig-06-09.png",
+  "w": 324,
+  "h": 301,
+  "bytes": 44218,
+  "caption": "Figure 6-9. Take cover signal",
+  "printed": "6-15"
+ },
+ {
+  "fid": "7-1",
+  "page": 142,
+  "file": "fig-07-01.png",
+  "w": 781,
+  "h": 687,
+  "bytes": 199308,
+  "caption": "Figure 7-1. Example of area reconnaissance",
+  "printed": "7-7"
+ },
+ {
+  "fid": "7-2",
+  "page": 148,
+  "file": "fig-07-02.png",
+  "w": 781,
+  "h": 553,
+  "bytes": 147441,
+  "caption": "Figure 7-2. Ambush formations",
+  "printed": "7-13"
+ },
+ {
+  "fid": "7-3",
+  "page": 150,
+  "file": "fig-07-03.png",
+  "w": 781,
+  "h": 585,
+  "bytes": 152568,
+  "caption": "Figure 7-3. Hasty ambush",
+  "printed": "7-15"
+ },
+ {
+  "fid": "7-4",
+  "page": 151,
+  "file": "fig-07-04.png",
+  "w": 782,
+  "h": 655,
+  "bytes": 216174,
+  "caption": "Figure 7-4. Deliberate ambush",
+  "printed": "7-16"
+ },
+ {
+  "fid": "7-5",
+  "page": 155,
+  "file": "fig-07-05.png",
+  "w": 781,
+  "h": 633,
+  "bytes": 204393,
+  "caption": "Figure 7-5. Actions on the objective (raid)",
+  "printed": "7-20"
+ },
+ {
+  "fid": "7-6",
+  "page": 159,
+  "file": "fig-07-06.png",
+  "w": 781,
+  "h": 537,
+  "bytes": 141853,
+  "caption": "Figure 7-6. Occupation of the objective rally point",
+  "printed": "7-24"
+ },
+ {
+  "fid": "7-7",
+  "page": 162,
+  "file": "fig-07-07.png",
+  "w": 781,
+  "h": 561,
+  "bytes": 155498,
+  "caption": "Figure 7-7. Patrol base",
+  "printed": "7-27"
+ },
+ {
+  "fid": "7-8",
+  "page": 164,
+  "file": "fig-07-08.png",
+  "w": 782,
+  "h": 719,
+  "bytes": 127869,
+  "caption": "Figure 7-8. Reconnaissance and surveillance team movement methods",
+  "printed": "7-29"
+ },
+ {
+  "fid": "8-1",
+  "page": 169,
+  "file": "fig-08-01.png",
+  "w": 777,
+  "h": 613,
+  "bytes": 234778,
+  "caption": "Figure 8-1. Platoon’s return fire and nearest covered and concealed positions",
+  "printed": "8-2"
+ },
+ {
+  "fid": "8-10",
+  "page": 187,
+  "file": "fig-08-10.png",
+  "w": 782,
+  "h": 625,
+  "bytes": 340651,
+  "caption": "Figure 8-10. Moving team’s fire and movement techniques",
+  "printed": "8-20"
+ },
+ {
+  "fid": "8-11",
+  "page": 189,
+  "file": "fig-08-11.png",
+  "w": 781,
+  "h": 511,
+  "bytes": 199603,
+  "caption": "Figure 8-11. Enemy fire upon platoon",
+  "printed": "8-22"
+ },
+ {
+  "fid": "8-12",
+  "page": 190,
+  "file": "fig-08-12.png",
+  "w": 781,
+  "h": 511,
+  "bytes": 219703,
+  "caption": "Figure 8-12. Platoon’s immediate return fire",
+  "printed": "8-23"
+ },
+ {
+  "fid": "8-13",
+  "page": 191,
+  "file": "fig-08-13.png",
+  "w": 781,
+  "h": 551,
+  "bytes": 229949,
+  "caption": "Figure 8-13. Platoon’s assault through enemy positions",
+  "printed": "8-24"
+ },
+ {
+  "fid": "8-14",
+  "page": 193,
+  "file": "fig-08-14.png",
+  "w": 777,
+  "h": 621,
+  "bytes": 305690,
+  "caption": "Figure 8-14. Enemy fire upon squad",
+  "printed": "8-26"
+ },
+ {
+  "fid": "8-15",
+  "page": 194,
+  "file": "fig-08-15.png",
+  "w": 777,
+  "h": 621,
+  "bytes": 310705,
+  "caption": "Figure 8-15. Squad’s immediate return fire",
+  "printed": "8-27"
+ },
+ {
+  "fid": "8-16",
+  "page": 195,
+  "file": "fig-08-16.png",
+  "w": 777,
+  "h": 621,
+  "bytes": 318489,
+  "caption": "Figure 8-16. Squad’s assault through enemy positions",
+  "printed": "8-28"
+ },
+ {
+  "fid": "8-17",
+  "page": 197,
+  "file": "fig-08-17.png",
+  "w": 781,
+  "h": 373,
+  "bytes": 102968,
+  "caption": "Figure 8-17. Clearing a room—first Soldier immediately followed by second Soldier",
+  "printed": "8-30"
+ },
+ {
+  "fid": "8-18",
+  "page": 198,
+  "file": "fig-08-18.png",
+  "w": 721,
+  "h": 351,
+  "bytes": 65928,
+  "caption": "Figure 8-18. Clearing a room—third Soldier enters room and clears sector",
+  "printed": "8-31"
+ },
+ {
+  "fid": "8-19",
+  "page": 199,
+  "file": "fig-08-19.png",
+  "w": 721,
+  "h": 327,
+  "bytes": 78239,
+  "caption": "Figure 8-19. Clearing a room–fourth Soldier enters room and clears sector",
+  "printed": "8-32"
+ },
+ {
+  "fid": "8-2",
+  "page": 170,
+  "file": "fig-08-02.png",
+  "w": 735,
+  "h": 581,
+  "bytes": 213745,
+  "caption": "Figure 8-2. Well-aimed fires and platoon leader control",
+  "printed": "8-3"
+ },
+ {
+  "fid": "8-20",
+  "page": 200,
+  "file": "fig-08-20.png",
+  "w": 702,
+  "h": 341,
+  "bytes": 137800,
+  "caption": "Figure 8-20. Soldiers’ reaction to indirect fire",
+  "printed": "8-33"
+ },
+ {
+  "fid": "8-3",
+  "page": 172,
+  "file": "fig-08-03.png",
+  "w": 781,
+  "h": 625,
+  "bytes": 330244,
+  "caption": "Figure 8-3. Squad’s return fire and nearest covered and concealed position",
+  "printed": "8-5"
+ },
+ {
+  "fid": "8-4",
+  "page": 173,
+  "file": "fig-08-04.png",
+  "w": 727,
+  "h": 581,
+  "bytes": 306047,
+  "caption": "Figure 8-4. Well-aimed fires and squad leader control",
+  "printed": "8-6"
+ },
+ {
+  "fid": "8-5",
+  "page": 181,
+  "file": "fig-08-05.png",
+  "w": 781,
+  "h": 603,
+  "bytes": 171217,
+  "caption": "Figure 8-5. Platoon’s direct and indirect fires to suppress enemy",
+  "printed": "8-14"
+ },
+ {
+  "fid": "8-6",
+  "page": 182,
+  "file": "fig-08-06.png",
+  "w": 761,
+  "h": 611,
+  "bytes": 195262,
+  "caption": "Figure 8-6. Moving element’s overwatch and enemy engagement",
+  "printed": "8-15"
+ },
+ {
+  "fid": "8-7",
+  "page": 183,
+  "file": "fig-08-07.png",
+  "w": 725,
+  "h": 651,
+  "bytes": 219428,
+  "caption": "Figure 8-7. Fire and movement techniques",
+  "printed": "8-16"
+ },
+ {
+  "fid": "8-8",
+  "page": 185,
+  "file": "fig-08-08.png",
+  "w": 781,
+  "h": 625,
+  "bytes": 300673,
+  "caption": "Figure 8-8. Squad’s direct fire to suppress enemy",
+  "printed": "8-18"
+ },
+ {
+  "fid": "8-9",
+  "page": 186,
+  "file": "fig-08-09.png",
+  "w": 781,
+  "h": 625,
+  "bytes": 313453,
+  "caption": "Figure 8-9. Moving team’s overwatch and enemy engagement",
+  "printed": "8-19"
+ },
+ {
+  "fid": "9-1",
+  "page": 208,
+  "file": "fig-09-01.png",
+  "w": 747,
+  "h": 351,
+  "bytes": 110179,
+  "caption": "Figure 9-1. Examples of traditional (removable) protection used on rocks",
+  "printed": "9-7"
+ },
+ {
+  "fid": "9-10",
+  "page": 215,
+  "file": "fig-09-10.png",
+  "w": 771,
+  "h": 251,
+  "bytes": 55411,
+  "caption": "Figure 9-10. Middle-of-the-rope clove hitch",
+  "printed": "9-36"
+ },
+ {
+  "fid": "9-11",
+  "page": 216,
+  "file": "fig-09-11.png",
+  "w": 781,
+  "h": 577,
+  "bytes": 210388,
+  "caption": "Figure 9-11. Rappel seat",
+  "printed": "9-15"
+ },
+ {
+  "fid": "9-12",
+  "page": 217,
+  "file": "fig-09-12.png",
+  "w": 771,
+  "h": 251,
+  "bytes": 63652,
+  "caption": "Figure 9-12. Rerouted figure eight knot",
+  "printed": "9-38"
+ },
+ {
+  "fid": "9-13",
+  "page": 217,
+  "file": "fig-09-13.png",
+  "w": 721,
+  "h": 361,
+  "bytes": 65436,
+  "caption": "Figure 9-13. Figure eight slipknot",
+  "printed": "9-38"
+ },
+ {
+  "fid": "9-14",
+  "page": 218,
+  "file": "fig-09-14.png",
+  "w": 444,
+  "h": 281,
+  "bytes": 26544,
+  "caption": "Figure 9-14. Munter hitch",
+  "printed": "9-17"
+ },
+ {
+  "fid": "9-15",
+  "page": 218,
+  "file": "fig-09-15.png",
+  "w": 763,
+  "h": 281,
+  "bytes": 77333,
+  "caption": "Figure 9-15. Munter mule knot",
+  "printed": "9-17"
+ },
+ {
+  "fid": "9-16",
+  "page": 219,
+  "file": "fig-09-16.png",
+  "w": 777,
+  "h": 281,
+  "bytes": 75815,
+  "caption": "Figure 9-16. Prusik knot",
+  "printed": "9-42"
+ },
+ {
+  "fid": "9-17",
+  "page": 220,
+  "file": "fig-09-17.png",
+  "w": 694,
+  "h": 681,
+  "bytes": 142740,
+  "caption": "Figure 9-17. Bowline",
+  "printed": "9-19"
+ },
+ {
+  "fid": "9-18",
+  "page": 221,
+  "file": "fig-09-18.png",
+  "w": 600,
+  "h": 601,
+  "bytes": 91868,
+  "caption": "Figure 9-18. Body belay method",
+  "printed": "9-20"
+ },
+ {
+  "fid": "9-19",
+  "page": 222,
+  "file": "fig-09-19.png",
+  "w": 261,
+  "h": 261,
+  "bytes": 36103,
+  "caption": "Figure 9-19. Examples of mechanical belay devices",
+  "printed": "9-21"
+ },
+ {
+  "fid": "9-2",
+  "page": 209,
+  "file": "fig-09-02.png",
+  "w": 655,
+  "h": 251,
+  "bytes": 72818,
+  "caption": "Figure 9-2. Examples of fixed (permanent or semipermanent) protection used on rocks",
+  "printed": "9-8"
+ },
+ {
+  "fid": "9-20",
+  "page": 222,
+  "file": "fig-09-20.png",
+  "w": 575,
+  "h": 377,
+  "bytes": 101787,
+  "caption": "Figure 9-20. Air traffic controller",
+  "printed": "9-21"
+ },
+ {
+  "fid": "9-21",
+  "page": 225,
+  "file": "fig-09-21.png",
+  "w": 779,
+  "h": 540,
+  "bytes": 322333,
+  "caption": "Figure 9-21. Example of transport-tightening system",
+  "printed": "9-24"
+ },
+ {
+  "fid": "9-22",
+  "page": 226,
+  "file": "fig-09-22.png",
+  "w": 691,
+  "h": 381,
+  "bytes": 60310,
+  "caption": "Figure 9-22. Commando crawl method",
+  "printed": "9-25"
+ },
+ {
+  "fid": "9-23",
+  "page": 226,
+  "file": "fig-09-23.png",
+  "w": 733,
+  "h": 381,
+  "bytes": 92146,
+  "caption": "Figure 9-23. Rappel seat (Tyrolean traverse) method",
+  "printed": "9-25"
+ },
+ {
+  "fid": "9-24",
+  "page": 227,
+  "file": "fig-09-24.png",
+  "w": 559,
+  "h": 400,
+  "bytes": 65031,
+  "caption": "Figure 9-24. Monkey crawl method",
+  "printed": "9-26"
+ },
+ {
+  "fid": "9-25",
+  "page": 229,
+  "file": "fig-09-25.png",
+  "w": 781,
+  "h": 585,
+  "bytes": 214777,
+  "caption": "Figure 9-25. Z-pulley system",
+  "printed": "9-28"
+ },
+ {
+  "fid": "9-26",
+  "page": 230,
+  "file": "fig-09-26.png",
+  "w": 400,
+  "h": 339,
+  "bytes": 51494,
+  "caption": "Figure 9-26. Body rappel method",
+  "printed": "9-29"
+ },
+ {
+  "fid": "9-27",
+  "page": 230,
+  "file": "fig-09-27.png",
+  "w": 700,
+  "h": 319,
+  "bytes": 184782,
+  "caption": "Figure 9-27. Figure eight descender",
+  "printed": "9-29"
+ },
+ {
+  "fid": "9-28",
+  "page": 231,
+  "file": "fig-09-28.png",
+  "w": 569,
+  "h": 300,
+  "bytes": 68996,
+  "caption": "Figure 9-28. Closeup of carabiner wrap descender and the seat hip rappel (shown with carabiner",
+  "printed": "9-30"
+ },
+ {
+  "fid": "9-29",
+  "page": 231,
+  "file": "fig-09-29.png",
+  "w": 339,
+  "h": 301,
+  "bytes": 41663,
+  "caption": "Figure 9-29. Sling extension",
+  "printed": "9-30"
+ },
+ {
+  "fid": "9-3",
+  "page": 210,
+  "file": "fig-09-03.png",
+  "w": 777,
+  "h": 567,
+  "bytes": 164863,
+  "caption": "Figure 9-3. Example of a three-point, pre-equalized anchor using fixed artificial protection",
+  "printed": "9-9"
+ },
+ {
+  "fid": "9-30",
+  "page": 231,
+  "file": "fig-09-30.png",
+  "w": 337,
+  "h": 300,
+  "bytes": 47935,
+  "caption": "Figure 9-30. Extended air traffic controller",
+  "printed": "9-30"
+ },
+ {
+  "fid": "9-4",
+  "page": 211,
+  "file": "fig-09-04.png",
+  "w": 631,
+  "h": 421,
+  "bytes": 313336,
+  "caption": "Figure 9-4. Example of tensionless, natural anchor",
+  "printed": "9-10"
+ },
+ {
+  "fid": "9-5",
+  "page": 212,
+  "file": "fig-09-05.png",
+  "w": 777,
+  "h": 545,
+  "bytes": 171962,
+  "caption": "Figure 9-5. Rope terms",
+  "printed": "9-11"
+ },
+ {
+  "fid": "9-6",
+  "page": 213,
+  "file": "fig-09-06.png",
+  "w": 740,
+  "h": 221,
+  "bytes": 58836,
+  "caption": "Figure 9-6. Square knot",
+  "printed": "9-32"
+ },
+ {
+  "fid": "9-7",
+  "page": 213,
+  "file": "fig-09-07.png",
+  "w": 661,
+  "h": 397,
+  "bytes": 63402,
+  "caption": "Figure 9-7. Round turn with two half hitches",
+  "printed": "9-32"
+ },
+ {
+  "fid": "9-8",
+  "page": 214,
+  "file": "fig-09-08.png",
+  "w": 715,
+  "h": 241,
+  "bytes": 69084,
+  "caption": "Figure 9-8. Double figure eight knot",
+  "printed": "9-13"
+ },
+ {
+  "fid": "9-9",
+  "page": 214,
+  "file": "fig-09-09.png",
+  "w": 550,
+  "h": 331,
+  "bytes": 42589,
+  "caption": "Figure 9-9. End-of-the-rope clove hitch",
+  "printed": "9-13"
+ },
+ {
+  "fid": "A-1",
+  "page": 325,
+  "file": "fig-a-01.png",
+  "w": 771,
+  "h": 775,
+  "bytes": 169031,
+  "caption": "Figure A-1. React to indirect fire training board",
+  "printed": "A-2"
+ },
+ {
+  "fid": "A-10",
+  "page": 334,
+  "file": "fig-a-10.png",
+  "w": 780,
+  "h": 721,
+  "bytes": 257166,
+  "caption": "Figure A-10. Squad attack training board",
+  "printed": "A-11"
+ },
+ {
+  "fid": "A-11",
+  "page": 335,
+  "file": "fig-a-11.png",
+  "w": 771,
+  "h": 775,
+  "bytes": 154064,
+  "caption": "Figure A-11. Raid boards (left)",
+  "printed": "A-12"
+ },
+ {
+  "fid": "A-12",
+  "page": 336,
+  "file": "fig-a-12.png",
+  "w": 723,
+  "h": 775,
+  "bytes": 288657,
+  "caption": "Figure A-12. Raid boards (middle)",
+  "printed": "A-13"
+ },
+ {
+  "fid": "A-13",
+  "page": 339,
+  "file": "fig-a-13.png",
+  "w": 782,
+  "h": 767,
+  "bytes": 221031,
+  "caption": "Figure A-13. Ambush standard operating procedure (left)",
+  "printed": "A-16"
+ },
+ {
+  "fid": "A-14",
+  "page": 341,
+  "file": "fig-a-14.png",
+  "w": 781,
+  "h": 722,
+  "bytes": 267844,
+  "caption": "Figure A-14. Leader’s reconnaissance training board",
+  "printed": "A-18"
+ },
+ {
+  "fid": "A-15",
+  "page": 343,
+  "file": "fig-a-15.png",
+  "w": 781,
+  "h": 585,
+  "bytes": 81196,
+  "caption": "Figure A-15. Diamond and vee formations",
+  "printed": "A-20"
+ },
+ {
+  "fid": "A-16",
+  "page": 345,
+  "file": "fig-a-16.png",
+  "w": 563,
+  "h": 775,
+  "bytes": 104907,
+  "caption": "Figure A-16. Movement formations to clear hallway junctions",
+  "printed": "A-22"
+ },
+ {
+  "fid": "A-17",
+  "page": 347,
+  "file": "fig-a-17.png",
+  "w": 507,
+  "h": 775,
+  "bytes": 85435,
+  "caption": "Figure A-17. Movement formations to clear T-intersections",
+  "printed": "A-24"
+ },
+ {
+  "fid": "A-18",
+  "page": 349,
+  "file": "fig-a-18.png",
+  "w": 559,
+  "h": 775,
+  "bytes": 191291,
+  "caption": "Figure A-18. Three-person flow clearing technique",
+  "printed": "A-26"
+ },
+ {
+  "fid": "A-2",
+  "page": 326,
+  "file": "fig-a-02.png",
+  "w": 755,
+  "h": 775,
+  "bytes": 229400,
+  "caption": "Figure A-2. React to direct fire contact training board",
+  "printed": "A-3"
+ },
+ {
+  "fid": "A-3",
+  "page": 327,
+  "file": "fig-a-03.png",
+  "w": 779,
+  "h": 775,
+  "bytes": 212517,
+  "caption": "Figure A-3. React to a near ambush training board",
+  "printed": "A-4"
+ },
+ {
+  "fid": "A-4",
+  "page": 328,
+  "file": "fig-a-04.png",
+  "w": 759,
+  "h": 775,
+  "bytes": 209858,
+  "caption": "Figure A-4. Break contact training board",
+  "printed": "A-5"
+ },
+ {
+  "fid": "A-5",
+  "page": 329,
+  "file": "fig-a-05.png",
+  "w": 796,
+  "h": 775,
+  "bytes": 216559,
+  "caption": "Figure A-5. Formations and order of movement training board",
+  "printed": "A-6"
+ },
+ {
+  "fid": "A-6",
+  "page": 330,
+  "file": "fig-a-06.png",
+  "w": 775,
+  "h": 775,
+  "bytes": 189474,
+  "caption": "Figure A-6. Linkup training board",
+  "printed": "A-7"
+ },
+ {
+  "fid": "A-7",
+  "page": 331,
+  "file": "fig-a-07.png",
+  "w": 780,
+  "h": 773,
+  "bytes": 230819,
+  "caption": "Figure A-7. Linear danger area training board",
+  "printed": "A-8"
+ },
+ {
+  "fid": "A-8",
+  "page": 332,
+  "file": "fig-a-08.png",
+  "w": 780,
+  "h": 723,
+  "bytes": 190496,
+  "caption": "Figure A-8. Large, open danger area training board",
+  "printed": "A-9"
+ },
+ {
+  "fid": "A-9",
+  "page": 333,
+  "file": "fig-a-09.png",
+  "w": 781,
+  "h": 765,
+  "bytes": 303621,
+  "caption": "Figure A-9. Crossing a small, open area training board",
+  "printed": "A-10"
+ },
+ {
+  "fid": "B-1",
+  "page": 355,
+  "file": "fig-b-01.png",
+  "w": 757,
+  "h": 775,
+  "bytes": 369107,
+  "caption": "Figure B-1. Improvised explosive device or unexploded explosive ordnance reference card",
+  "printed": "B-2"
+ },
+ {
+  "fid": "B-2",
+  "page": 356,
+  "file": "fig-b-02.png",
+  "w": 781,
+  "h": 605,
+  "bytes": 246131,
+  "caption": "Figure B-2. Example of DA Form 5517, Standard Range Card (with final protective line)",
+  "printed": "B-3"
+ },
+ {
+  "fid": "B-3",
+  "page": 357,
+  "file": "fig-b-03.png",
+  "w": 585,
+  "h": 775,
+  "bytes": 437558,
+  "caption": "Figure B-3. Example of DA Form 5517, Standard Range Card",
+  "printed": "B-4"
+ },
+ {
+  "fid": "B-4",
+  "page": 358,
+  "file": "fig-b-04.png",
+  "w": 567,
+  "h": 775,
+  "bytes": 296708,
+  "caption": "Figure B-4. Examples of a 9-line medical evacuation request and a mechanism of injury, injury type,",
+  "printed": "B-5"
+ },
+ {
+  "fid": "10-1",
+  "page": 234,
+  "file": "fig-10-01.png",
+  "w": 781,
+  "h": 259,
+  "bytes": 73337,
+  "caption": "Figure 10-1. Trajectory and maximum ordinate",
+  "printed": "10-3"
+ },
+ {
+  "fid": "10-2",
+  "page": 235,
+  "file": "fig-10-02.png",
+  "w": 779,
+  "h": 301,
+  "bytes": 55001,
+  "caption": "Figure 10-2. Cone of fire and beaten zone",
+  "printed": "10-4"
+ },
+ {
+  "fid": "10-3",
+  "page": 236,
+  "file": "fig-10-03.png",
+  "w": 782,
+  "h": 597,
+  "bytes": 131886,
+  "caption": "Figure 10-3. Classes of fire with respect to ground",
+  "printed": "10-5"
+ },
+ {
+  "fid": "10-4A",
+  "page": 238,
+  "file": "fig-10-04a.png",
+  "w": 781,
+  "h": 781,
+  "bytes": 85307,
+  "caption": "Figure 10-4A. Classes of fire with respect to target",
+  "printed": "10-7"
+ },
+ {
+  "fid": "10-4B",
+  "page": 239,
+  "file": "fig-10-04b.png",
+  "w": 723,
+  "h": 775,
+  "bytes": 289294,
+  "caption": "Figure 10-4B. Classes of fire with respect to target",
+  "printed": "10-8"
+ },
+ {
+  "fid": "10-5",
+  "page": 241,
+  "file": "fig-10-05.png",
+  "w": 781,
+  "h": 697,
+  "bytes": 148221,
+  "caption": "Figure 10-5. Classes of fire with respect to gun",
+  "printed": "10-10"
+ },
+ {
+  "fid": "11-1",
+  "page": 256,
+  "file": "fig-11-01.png",
+  "w": 705,
+  "h": 341,
+  "bytes": 64889,
+  "caption": "Figure 11-1. First two Soldiers entering to clear a room",
+  "printed": "11-9"
+ },
+ {
+  "fid": "11-2",
+  "page": 256,
+  "file": "fig-11-02.png",
+  "w": 685,
+  "h": 321,
+  "bytes": 60837,
+  "caption": "Figure 11-2. Third soldier entering room and clearing sector",
+  "printed": "11-9"
+ },
+ {
+  "fid": "11-3",
+  "page": 257,
+  "file": "fig-11-03.png",
+  "w": 717,
+  "h": 321,
+  "bytes": 77099,
+  "caption": "Figure 11-3. Fourth Soldier entering room and dominating sector",
+  "printed": "11-10"
+ },
+ {
+  "fid": "12-1",
+  "page": 260,
+  "file": "fig-12-01.png",
+  "w": 489,
+  "h": 775,
+  "bytes": 106843,
+  "caption": "Figure 12-1. Positions of bridge team personnel",
+  "printed": "12-3"
+ },
+ {
+  "fid": "12-2",
+  "page": 263,
+  "file": "fig-12-02.png",
+  "w": 771,
+  "h": 515,
+  "bytes": 460575,
+  "caption": "Figure 12-2. Example of tensionless, natural anchor for far side anchor point",
+  "printed": "12-6"
+ },
+ {
+  "fid": "12-3",
+  "page": 265,
+  "file": "fig-12-03.png",
+  "w": 635,
+  "h": 441,
+  "bytes": 213913,
+  "caption": "Figure 12-3. Example of transport-tightening system for near side anchor point",
+  "printed": "12-8"
+ },
+ {
+  "fid": "12-4",
+  "page": 268,
+  "file": "fig-12-04.png",
+  "w": 781,
+  "h": 401,
+  "bytes": 146364,
+  "caption": "Figure 12-4. Rucksack rigging",
+  "printed": "12-11"
+ },
+ {
+  "fid": "12-5",
+  "page": 269,
+  "file": "fig-12-05.png",
+  "w": 781,
+  "h": 567,
+  "bytes": 226392,
+  "caption": "Figure 12-5. Equipment rigging",
+  "printed": "12-12"
+ },
+ {
+  "fid": "12-6",
+  "page": 270,
+  "file": "fig-12-06.png",
+  "w": 757,
+  "h": 775,
+  "bytes": 156554,
+  "caption": "Figure 12-6. Weapon rigging",
+  "printed": "12-13"
+ },
+ {
+  "fid": "12-7",
+  "page": 272,
+  "file": "fig-12-07.png",
+  "w": 759,
+  "h": 541,
+  "bytes": 183047,
+  "caption": "Figure 12-7. Crew positions – long count and short count",
+  "printed": "12-15"
+ },
+ {
+  "fid": "12-8",
+  "page": 278,
+  "file": "fig-12-08.png",
+  "w": 779,
+  "h": 517,
+  "bytes": 93306,
+  "caption": "Figure 12-8. Measuring current velocity",
+  "printed": "12-21"
+ },
+ {
+  "fid": "13-1",
+  "page": 285,
+  "file": "fig-13-01.png",
+  "w": 675,
+  "h": 774,
+  "bytes": 159792,
+  "caption": "Figure 13-1. Mounted patrol reacting to near ambush",
+  "printed": "13-6"
+ },
+ {
+  "fid": "13-2",
+  "page": 286,
+  "file": "fig-13-02.png",
+  "w": 657,
+  "h": 774,
+  "bytes": 157755,
+  "caption": "Figure 13-2. Mounted patrol reacting to far ambush",
+  "printed": "13-7"
+ },
+ {
+  "fid": "13-3",
+  "page": 288,
+  "file": "fig-13-03.png",
+  "w": 698,
+  "h": 775,
+  "bytes": 198937,
+  "caption": "Figure 13-3. Mounted patrol forced to stop, method one",
+  "printed": "13-9"
+ },
+ {
+  "fid": "13-4",
+  "page": 290,
+  "file": "fig-13-04.png",
+  "w": 698,
+  "h": 775,
+  "bytes": 177242,
+  "caption": "Figure 13-4. Mounted patrol forced to stop, method two",
+  "printed": "13-11"
+ },
+ {
+  "fid": "13-5",
+  "page": 292,
+  "file": "fig-13-05.png",
+  "w": 775,
+  "h": 775,
+  "bytes": 178236,
+  "caption": "Figure 13-5. Mounted patrol breaking contact",
+  "printed": "13-13"
+ },
+ {
+  "fid": "13-6",
+  "page": 294,
+  "file": "fig-13-06.png",
+  "w": 775,
+  "h": 709,
+  "bytes": 116197,
+  "caption": "Figure 13-6. Casualty evacuation and recovery operations",
+  "printed": "13-15"
+ },
+ {
+  "fid": "14-1",
+  "page": 298,
+  "file": "fig-14-01.png",
+  "w": 782,
+  "h": 589,
+  "bytes": 83784,
+  "caption": "Figure 14-1. Inverted Y",
+  "printed": "14-3"
+ },
+ {
+  "fid": "14-2",
+  "page": 300,
+  "file": "fig-14-02.png",
+  "w": 746,
+  "h": 775,
+  "bytes": 241105,
+  "caption": "Figure 14-2. Example of large, one-sided pickup zone",
+  "printed": "14-5"
+ },
+ {
+  "fid": "14-3",
+  "page": 301,
+  "file": "fig-14-03.png",
+  "w": 780,
+  "h": 597,
+  "bytes": 138061,
+  "caption": "Figure 14-3. UH-60L loading sequence",
+  "printed": "14-6"
+ },
+ {
+  "fid": "14-4",
+  "page": 302,
+  "file": "fig-14-04.png",
+  "w": 781,
+  "h": 545,
+  "bytes": 121373,
+  "caption": "Figure 14-4. UH-60L unloading sequence",
+  "printed": "14-7"
+ },
+ {
+  "fid": "14-5",
+  "page": 303,
+  "file": "fig-14-05.png",
+  "w": 615,
+  "h": 775,
+  "bytes": 86196,
+  "caption": "Figure 14-5. Tactical loading sequence",
+  "printed": "14-8"
+ },
+ {
+  "fid": "14-6",
+  "page": 304,
+  "file": "fig-14-06.png",
+  "w": 609,
+  "h": 775,
+  "bytes": 106150,
+  "caption": "Figure 14-6. Tactical unloading sequence using door nearest cover and concealment",
+  "printed": "14-9"
+ },
+ {
+  "fid": "14-7",
+  "page": 305,
+  "file": "fig-14-07.png",
+  "w": 737,
+  "h": 681,
+  "bytes": 178613,
+  "caption": "Figure 14-7. CH-47/CV-22 rear ramp off-load method",
+  "printed": "14-10"
+ },
+ {
+  "fid": "15-1",
+  "page": 315,
+  "file": "fig-15-01.png",
+  "w": 780,
+  "h": 569,
+  "bytes": 139208,
+  "caption": "Figure 15-1. Example of triage triangle",
+  "printed": "15-6"
+ },
+ {
+  "fid": "15-2",
+  "page": 318,
+  "file": "fig-15-02.png",
+  "w": 761,
+  "h": 485,
+  "bytes": 86867,
+  "caption": "Figure 15-2. Inverted Y and NATO T layouts",
+  "printed": "15-9"
+ }
+]

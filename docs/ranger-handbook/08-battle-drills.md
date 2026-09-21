@@ -29,7 +29,10 @@ status: published
 1. 接觸中的班一面占領掩蔽位置，一面**立即**對已知或疑似敵軍陣地實施精準瞄準的壓制射擊。
 2. 未接觸的班占領最近的掩蔽與隱蔽位置（見第 8-2 頁圖 8-1）。
 
-> **［圖 8-1．全排還擊並占領最近的掩蔽與隱蔽位置］**　原文圖說：Figure 8-1. Platoon's return fire and nearest covered and concealed positions
+<figure>
+  <img src="/images/ranger-handbook/fig-08-01.png" alt="圖 8-1．全排還擊並占領最近的掩蔽與隱蔽位置" />
+  <figcaption>圖 8-1．全排還擊並占領最近的掩蔽與隱蔽位置（原書 p.8-2）<br />原文圖說：Figure 8-1. Platoon's return fire and nearest covered and concealed positions</figcaption>
+</figure>
 
 3. \*各班長以精準瞄準的壓制射擊攻擊已知或疑似敵軍陣地，並向排長與排士官長回報資訊。
 4. \*各班長以**標準射擊口令**（初始與補充）掌控所屬官兵的射擊，口令包含下列資訊：
@@ -51,7 +54,10 @@ status: published
    - b. 未接觸各班的班長移到所屬班的前方。
    - c. 排士官長帶著其餘班組操作武器前進，與排長會合，並接掌支援組的指揮。
 
-> **［圖 8-2．精準瞄準射擊與排長掌控］**　原文圖說：Figure 8-2. Well-aimed fires and platoon leader control
+<figure>
+  <img src="/images/ranger-handbook/fig-08-02.png" alt="圖 8-2．精準瞄準射擊與排長掌控" />
+  <figcaption>圖 8-2．精準瞄準射擊與排長掌控（原書 p.8-3）<br />原文圖說：Figure 8-2. Well-aimed fires and platoon leader control</figcaption>
+</figure>
 
 10. \*排長判斷全排能否以已接觸的班取得並維持壓制火力（依敵軍對接觸中的班射擊的火力量與準確度判斷）。
 11. \*排長確認指揮官的**脫離交戰準則**，並判斷全排是否必須撤出交戰地區。
@@ -78,7 +84,10 @@ status: published
 1. 接觸中的伍一面占領掩蔽位置，一面立即對已知或疑似敵軍陣地實施精準瞄準的壓制射擊。
 2. 未接觸的伍占領最近的掩蔽與隱蔽位置（見圖 8-3）。
 
-> **［圖 8-3．全班還擊並占領最近的掩蔽與隱蔽位置］**　原文圖說：Figure 8-3. Squad's return fire and nearest covered and concealed position
+<figure>
+  <img src="/images/ranger-handbook/fig-08-03.png" alt="圖 8-3．全班還擊並占領最近的掩蔽與隱蔽位置" />
+  <figcaption>圖 8-3．全班還擊並占領最近的掩蔽與隱蔽位置（原書 p.8-5）<br />原文圖說：Figure 8-3. Squad's return fire and nearest covered and concealed position</figcaption>
+</figure>
 
 3. \*各伍長以精準瞄準的壓制射擊攻擊已知或疑似敵軍陣地，並向班長回報資訊。
 4. \*各伍長以標準射擊口令（初始與補充）掌控所屬伍的射擊，口令包含下列資訊：
@@ -97,7 +106,10 @@ status: published
 8. \*各伍長與班長保持目視聯繫。
 9. \*班長移動到最能觀察、通信與掌控交戰的掩蔽與隱蔽位置（見圖 8-4）。
 
-> **［圖 8-4．精準瞄準射擊與班長掌控］**　原文圖說：Figure 8-4. Well-aimed fires and squad leader control
+<figure>
+  <img src="/images/ranger-handbook/fig-08-04.png" alt="圖 8-4．精準瞄準射擊與班長掌控" />
+  <figcaption>圖 8-4．精準瞄準射擊與班長掌控（原書 p.8-6）<br />原文圖說：Figure 8-4. Well-aimed fires and squad leader control</figcaption>
+</figure>
 
 10. \*班長判斷全班能否以已接觸的伍取得並維持壓制火力（依敵軍對接觸中的伍射擊的火力量與準確度判斷）。
 11. \*班長確認指揮官的脫離交戰準則，並判斷全班是否必須撤出交戰地區。
@@ -295,7 +307,10 @@ status: published
 
 4. \*排長運用直接火力壓制敵軍陣地（見第 8-14 頁圖 8-5）。
 
-> **［圖 8-5．全排以直接與間接火力壓制敵人］**　原文圖說：Figure 8-5. Platoon's direct and indirect fires to suppress enemy
+<figure>
+  <img src="/images/ranger-handbook/fig-08-05.png" alt="圖 8-5．全排以直接與間接火力壓制敵人" />
+  <figcaption>圖 8-5．全排以直接與間接火力壓制敵人（原書 p.8-14）<br />原文圖說：Figure 8-5. Platoon's direct and indirect fires to suppress enemy</figcaption>
+</figure>
 
 5. 運動組移動占領監視位置，並運用煙幕（M203／M320、煙幕手榴彈、間接火力及其他選項）遮蔽運動。
 
@@ -304,13 +319,19 @@ status: published
 6. 火力基礎組持續壓制敵人。
 7. 運動組占領監視位置，並攻擊敵軍陣地（見圖 8-6）。
 
-> **［圖 8-6．運動組占領監視位置並攻擊敵人］**　原文圖說：Figure 8-6. Moving element's overwatch and enemy engagement
+<figure>
+  <img src="/images/ranger-handbook/fig-08-06.png" alt="圖 8-6．運動組占領監視位置並攻擊敵人" />
+  <figcaption>圖 8-6．運動組占領監視位置並攻擊敵人（原書 p.8-15）<br />原文圖說：Figure 8-6. Moving element's overwatch and enemy engagement</figcaption>
+</figure>
 
 8. \*排長指示火力基礎組移動到下一個掩蔽與隱蔽位置（見圖 8-7）。
 
 > **註**：依地形以及敵火的火力量與準確度，運動組可能需要使用射擊與運動技術。
 
-> **［圖 8-7．射擊與運動技術］**　原文圖說：Figure 8-7. Fire and movement techniques
+<figure>
+  <img src="/images/ranger-handbook/fig-08-07.png" alt="圖 8-7．射擊與運動技術" />
+  <figcaption>圖 8-7．射擊與運動技術（原書 p.8-16）<br />原文圖說：Figure 8-7. Fire and movement techniques</figcaption>
+</figure>
 
 9. 全排持續遠離敵人，直到：
    - a. 脫離接觸（全排在脫離接觸時必須持續壓制敵人）。
@@ -342,7 +363,10 @@ status: published
 
 4. \*班長運用直接火力壓制敵軍陣地（見圖 8-8）。
 
-> **［圖 8-8．全班以直接火力壓制敵人］**　原文圖說：Figure 8-8. Squad's direct fire to suppress enemy
+<figure>
+  <img src="/images/ranger-handbook/fig-08-08.png" alt="圖 8-8．全班以直接火力壓制敵人" />
+  <figcaption>圖 8-8．全班以直接火力壓制敵人（原書 p.8-18）<br />原文圖說：Figure 8-8. Squad's direct fire to suppress enemy</figcaption>
+</figure>
 
 5. 運動伍移動占領監視位置，並運用煙幕（M203／M320、煙幕手榴彈及其他選項）遮蔽運動。
 
@@ -351,13 +375,19 @@ status: published
 6. 火力基礎伍持續壓制敵人。
 7. 運動伍占領監視位置，並攻擊敵軍陣地（見圖 8-9）。
 
-> **［圖 8-9．運動伍占領監視位置並攻擊敵人］**　原文圖說：Figure 8-9. Moving team's overwatch and enemy engagement
+<figure>
+  <img src="/images/ranger-handbook/fig-08-09.png" alt="圖 8-9．運動伍占領監視位置並攻擊敵人" />
+  <figcaption>圖 8-9．運動伍占領監視位置並攻擊敵人（原書 p.8-19）<br />原文圖說：Figure 8-9. Moving team's overwatch and enemy engagement</figcaption>
+</figure>
 
 8. \*班長指示火力基礎伍移動到下一個掩蔽與隱蔽位置（見圖 8-10）。
 
 > **註**：依地形以及敵火的火力量與準確度，運動伍可能需要使用射擊與運動技術。
 
-> **［圖 8-10．運動伍的射擊與運動技術］**　原文圖說：Figure 8-10. Moving team's fire and movement techniques
+<figure>
+  <img src="/images/ranger-handbook/fig-08-10.png" alt="圖 8-10．運動伍的射擊與運動技術" />
+  <figcaption>圖 8-10．運動伍的射擊與運動技術（原書 p.8-20）<br />原文圖說：Figure 8-10. Moving team's fire and movement techniques</figcaption>
+</figure>
 
 9. 全班持續遠離敵人，直到：
    - a. 脫離接觸（全班在脫離接觸時必須持續壓制敵人）。
@@ -386,20 +416,29 @@ status: published
 
 1. 全排徒步運動中遭敵大量精準瞄準射擊，採取下列行動（見第 8-22 頁圖 8-11）。
 
-> **［圖 8-11．敵軍對全排射擊］**　原文圖說：Figure 8-11. Enemy fire upon platoon
+<figure>
+  <img src="/images/ranger-handbook/fig-08-11.png" alt="圖 8-11．敵軍對全排射擊" />
+  <figcaption>圖 8-11．敵軍對全排射擊（原書 p.8-22）<br />原文圖說：Figure 8-11. Enemy fire upon platoon</figcaption>
+</figure>
 
 - a. **近距伏擊**（敵人在**手榴彈投擲距離以內**）的反應：
   - (1) 殺傷區內的伍或班執行下列兩種動作之一：
     - (a) 立即還擊；若沒有掩蔽，**不待命令或信號**立即臥倒，並投擲煙幕手榴彈。
     - (b) 立即還擊；若有掩蔽，不待命令或信號占領最近的掩蔽位置、立即臥倒，並投擲煙幕手榴彈（見圖 8-12）。
 
-> **［圖 8-12．全排立即還擊］**　原文圖說：Figure 8-12. Platoon's immediate return fire
+<figure>
+  <img src="/images/ranger-handbook/fig-08-12.png" alt="圖 8-12．全排立即還擊" />
+  <figcaption>圖 8-12．全排立即還擊（原書 p.8-23）<br />原文圖說：Figure 8-12. Platoon's immediate return fire</figcaption>
+</figure>
 
 - (2) 煙幕手榴彈一爆開，殺傷區內的伍或班**立即**以射擊與運動突擊穿越伏擊陣地。
 - (3) 殺傷區外的伍或班找出敵人位置，對敵軍陣地實施精準瞄準的壓制射擊，並在官兵突擊目標時轉移火力。
 - (4) 殺傷區內的官兵或伍持續突擊穿越並摧毀敵軍陣地（見圖 8-13）。
 
-> **［圖 8-13．全排突擊穿越敵軍陣地］**　原文圖說：Figure 8-13. Platoon's assault through enemy positions
+<figure>
+  <img src="/images/ranger-handbook/fig-08-13.png" alt="圖 8-13．全排突擊穿越敵軍陣地" />
+  <figcaption>圖 8-13．全排突擊穿越敵軍陣地（原書 p.8-24）<br />原文圖說：Figure 8-13. Platoon's assault through enemy positions</figcaption>
+</figure>
 
 - b. **遠距伏擊**（敵人在**手榴彈投擲距離以外**）的反應：
   - (1) 遭受射擊的伍或班立即還擊、尋找掩蔽，並對敵軍陣地實施精準瞄準的壓制射擊。
@@ -425,20 +464,29 @@ status: published
 
 1. 全班徒步運動中遭敵大量精準瞄準射擊，採取下列行動（見第 8-26 頁圖 8-14）。
 
-> **［圖 8-14．敵軍對全班射擊］**　原文圖說：Figure 8-14. Enemy fire upon squad
+<figure>
+  <img src="/images/ranger-handbook/fig-08-14.png" alt="圖 8-14．敵軍對全班射擊" />
+  <figcaption>圖 8-14．敵軍對全班射擊（原書 p.8-26）<br />原文圖說：Figure 8-14. Enemy fire upon squad</figcaption>
+</figure>
 
 - a. 近距伏擊（敵人在手榴彈投擲距離以內）的反應：
   - (1) 殺傷區內的官兵或伍執行下列兩種動作之一：
     - (a) 立即還擊；若沒有掩蔽，不待命令或信號立即臥倒，並投擲煙幕手榴彈。
     - (b) 立即還擊；若有掩蔽，不待命令或信號占領最近的掩蔽位置、立即臥倒，並投擲煙幕手榴彈（見圖 8-15）。
 
-> **［圖 8-15．全班立即還擊］**　原文圖說：Figure 8-15. Squad's immediate return fire
+<figure>
+  <img src="/images/ranger-handbook/fig-08-15.png" alt="圖 8-15．全班立即還擊" />
+  <figcaption>圖 8-15．全班立即還擊（原書 p.8-27）<br />原文圖說：Figure 8-15. Squad's immediate return fire</figcaption>
+</figure>
 
 - (2) 煙幕手榴彈一爆開，殺傷區內的官兵或伍立即以射擊與運動突擊穿越伏擊陣地。
 - (3) 殺傷區外的官兵或伍找出敵人位置，對敵軍陣地實施精準瞄準的壓制射擊，並在官兵突擊目標時轉移火力。
 - (4) 殺傷區內的官兵或伍持續突擊穿越並摧毀敵軍陣地（見第 8-28 頁圖 8-16）。
 
-> **［圖 8-16．全班突擊穿越敵軍陣地］**　原文圖說：Figure 8-16. Squad's assault through enemy positions
+<figure>
+  <img src="/images/ranger-handbook/fig-08-16.png" alt="圖 8-16．全班突擊穿越敵軍陣地" />
+  <figcaption>圖 8-16．全班突擊穿越敵軍陣地（原書 p.8-28）<br />原文圖說：Figure 8-16. Squad's assault through enemy positions</figcaption>
+</figure>
 
 - b. 遠距伏擊（敵人在手榴彈投擲距離以外）的反應：
   - (1) 遭受射擊的官兵或伍立即還擊、尋找掩蔽，並對敵軍陣地實施精準瞄準的壓制射擊。
@@ -480,7 +528,10 @@ status: published
    - a. **1 號兵**進入房間，沿**阻力最小的路徑**向左或向右移動到兩個牆角之一，並占領面向房內的**控制位置**。移動期間，掃視責任區並排除所有立即威脅。
    - b. **2 號兵**（通常是清除組組長）緊跟 1 號兵進入房間，往 1 號兵的**相反方向**移動到控制位置。移動期間，排除責任區內所有立即威脅。
 
-> **［圖 8-17．清除房間——1 號兵進入，2 號兵緊隨］**　原文圖說：Figure 8-17. Clearing a room—first Soldier immediately followed by second Soldier
+<figure>
+  <img src="/images/ranger-handbook/fig-08-17.png" alt="圖 8-17．清除房間——1 號兵進入，2 號兵緊隨" />
+  <figcaption>圖 8-17．清除房間——1 號兵進入，2 號兵緊隨（原書 p.8-30）<br />原文圖說：Figure 8-17. Clearing a room—first Soldier immediately followed by second Soldier</figcaption>
+</figure>
 
 > **註**：高強度戰鬥時，官兵在**手榴彈爆炸後立即**進入。兩名官兵一面進入、一面向各自責任區實施瞄準點放射擊，攻擊所有威脅或敵對目標以掩護進入。
 >
@@ -488,11 +539,17 @@ status: published
 
 4. **3 號兵**往 2 號兵的相反方向移動，一面掃視並清除責任區，一面占領控制位置（見圖 8-18）。
 
-> **［圖 8-18．清除房間——3 號兵進入並清除責任區］**　原文圖說：Figure 8-18. Clearing a room—third Soldier enters room and clears sector
+<figure>
+  <img src="/images/ranger-handbook/fig-08-18.png" alt="圖 8-18．清除房間——3 號兵進入並清除責任區" />
+  <figcaption>圖 8-18．清除房間——3 號兵進入並清除責任區（原書 p.8-31）<br />原文圖說：Figure 8-18. Clearing a room—third Soldier enters room and clears sector</figcaption>
+</figure>
 
 5. **4 號兵**往 3 號兵的相反方向移動到可控制責任區的位置（見圖 8-19）。
 
-> **［圖 8-19．清除房間——4 號兵進入並清除責任區］**　原文圖說：Figure 8-19. Clearing a room–fourth Soldier enters room and clears sector
+<figure>
+  <img src="/images/ranger-handbook/fig-08-19.png" alt="圖 8-19．清除房間——4 號兵進入並清除責任區" />
+  <figcaption>圖 8-19．清除房間——4 號兵進入並清除責任區（原書 p.8-32）<br />原文圖說：Figure 8-19. Clearing a room–fourth Soldier enters room and clears sector</figcaption>
+</figure>
 
 6. 所有官兵以**精準瞄準射擊**攻擊敵方戰鬥人員，並辨識非戰鬥人員以避免附帶損害。
 
@@ -529,7 +586,10 @@ status: published
 1. 排內一名成員聽到或看到砲彈落在全排附近，喊出「**INCOMING！**」警示全排。
 2. 初次彈著期間，官兵**立即臥倒**，或立即移動到附近可用的掩蔽處（見圖 8-20）。
 
-> **［圖 8-20．官兵對間接火力的反應］**　原文圖說：Figure 8-20. Soldiers' reaction to indirect fire
+<figure>
+  <img src="/images/ranger-handbook/fig-08-20.png" alt="圖 8-20．官兵對間接火力的反應" />
+  <figcaption>圖 8-20．官兵對間接火力的反應（原書 p.8-33）<br />原文圖說：Figure 8-20. Soldiers' reaction to indirect fire</figcaption>
+</figure>
 
 3. \*排長下達方向與距離，命令全排移動到集合點。
 4. 彈著後，官兵依指定方向與距離**迅速**移動到集合點，並重新建立警戒。

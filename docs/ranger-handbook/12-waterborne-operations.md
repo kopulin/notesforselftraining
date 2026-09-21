@@ -59,7 +59,10 @@ status: published
 
 > **譯註**：12-4 段原文寫「見第 2-32 至 2-34 頁表 2-1」，但第 2 章的隱密渡越間隙附件格式為**表 2-15**，表 2-1 是部隊領導程序步驟，原文引用有誤。
 
-> **［圖 12-1．架橋組人員位置］**　原文圖說：Figure 12-1. Positions of bridge team personnel
+<figure>
+  <img src="/images/ranger-handbook/fig-12-01.png" alt="圖 12-1．架橋組人員位置" />
+  <figcaption>圖 12-1．架橋組人員位置（原書 p.12-3）<br />原文圖說：Figure 12-1. Positions of bridge team personnel</figcaption>
+</figure>
 
 **12-5.** 架橋組長在部隊領導程序期間，盡可能**逼真地**預演架橋組。領導者確保人員熟練隱密渡越間隙作業的操作要領，找出**游泳能力較弱**的人員、檢查裝備、修正裝具固定與準備、確定武器配置、確認人員了解作業，並確保 150 英尺繩索已反向堆放並正確盤好。單位領導者選定最有利於戰術計畫的渡越地點。
 
@@ -107,7 +110,10 @@ status: published
 > - 武器（斜背在背後）。
 > - 泳者安全繩以腰間稱人結繫好。泳者安全繩的鉤環穿過長度不超過一臂的繩端稱人結，再扣回繞在拖繩泳者腰間（約在後腰處）的泳者安全繩上固定。
 
-> **［圖 12-2．遠側固定點的無張力天然固定點範例］**　原文圖說：Figure 12-2. Example of tensionless, natural anchor for far side anchor point
+<figure>
+  <img src="/images/ranger-handbook/fig-12-02.png" alt="圖 12-2．遠側固定點的無張力天然固定點範例" />
+  <figcaption>圖 12-2．遠側固定點的無張力天然固定點範例（原書 p.12-6）<br />原文圖說：Figure 12-2. Example of tensionless, natural anchor for far side anchor point</figcaption>
+</figure>
 
 **12-10.** **3 號遊騎兵**（近側救生員）在 1、2 號入水**之前**，就位於近側固定點的下游側。3 號穿著與 1 號相同的水上服裝，將背包（框架頂部扣著鉤環）放在近側固定點後方。排士官長渡越並確認人數後，3 號解開近側固定點的**快速解脫結**。3 號是**最後一名**被拉過水域障礙的遊騎兵。渡越前，3 號依下列順序穿戴裝備：
 
@@ -120,7 +126,10 @@ status: published
 
 **12-11.** **4 號遊騎兵**（架橋組長）穿著標準水上服裝與野戰攜行具／戰術突擊胸掛，並以一條繩環作為安全繩，以腰間稱人結繫好，末端打一個長度不超過一臂的繩端稱人結。4 號負責**編組架橋組、架設繩橋、回送繩索**，以及打**運輸收緊系統**（見第 12-8 頁圖 12-3）。架橋組長指定近側固定點，收到 2 號發出遠側固定點已固定的信號後，在水面上方 18 至 24 英寸（46 至 61 公分）處打運輸收緊系統的繩耳八字活結，在近側固定點上繞一圈，並扣入兩個互扣的鉤環。架橋組長指示 2 號收掉所有鬆弛並在遠側固定點固定繩索。2 號再次發出遠側已固定的信號後，架橋組長指示 5、6 號拉緊繩索。繩索拉緊後，架橋組長將繩索在近側固定點上**至少繞 4 圈**（圈數視情況而定），並以一個半結加一個快速解脫結固定。架橋組長確保：運輸收緊結位於繩橋的**上游側**；所有人員都穿著水上服裝；所有裝備配置正確；背包背帶都已拉緊（防止通過障礙時背包向前滑、把官兵的頭推入水中）；人員掛在繩索上並**面向上游**。架橋組長確保所有武器都掛在繩索上，並掌控繩橋上的人員流動。架橋組長負責帶著 1 號的背包渡越，通常是倒數第二名渡越，排在負責清點人數的排士官長之後。
 
-> **［圖 12-3．近側固定點的運輸收緊系統範例］**　原文圖說：Figure 12-3. Example of transport-tightening system for near side anchor point
+<figure>
+  <img src="/images/ranger-handbook/fig-12-03.png" alt="圖 12-3．近側固定點的運輸收緊系統範例" />
+  <figcaption>圖 12-3．近側固定點的運輸收緊系統範例（原書 p.12-8）<br />原文圖說：Figure 12-3. Example of transport-tightening system for near side anchor point</figcaption>
+</figure>
 
 **12-12.** **5、6 號遊騎兵**（拉繩手）穿著水上服裝、野戰攜行具／戰術突擊胸掛，並繫安全繩。他們負責收緊運輸收緊系統，也負責帶 2、3 號的背包過河。抵達遠側後，5、6 號將最後一名遊騎兵（3 號）拉過來。
 
@@ -206,13 +215,22 @@ status: published
   - 無線電機與電池做好防水處理。
   - 尖銳物品加墊，以免刺破艇身。
 
-> **［圖 12-4．背包綁固］**　原文圖說：Figure 12-4. Rucksack rigging
+<figure>
+  <img src="/images/ranger-handbook/fig-12-04.png" alt="圖 12-4．背包綁固" />
+  <figcaption>圖 12-4．背包綁固（原書 p.12-11）<br />原文圖說：Figure 12-4. Rucksack rigging</figcaption>
+</figure>
 
-> **［圖 12-5．裝備綁固］**　原文圖說：Figure 12-5. Equipment rigging
+<figure>
+  <img src="/images/ranger-handbook/fig-12-05.png" alt="圖 12-5．裝備綁固" />
+  <figcaption>圖 12-5．裝備綁固（原書 p.12-12）<br />原文圖說：Figure 12-5. Equipment rigging</figcaption>
+</figure>
 
 **12-22.** 綁固要固定在艇上的武器時，在 M240 的前後各扣一個鉤環，以**繩中稱人結**連接兩個鉤環，再在繩中央扣第三個鉤環。M249 機槍也在前後各扣一個鉤環，並以傘繩連接兩個鉤環（見圖 12-6）。背包則在每個背包頂部扣一個鉤環（見第 12-11 頁圖 12-4）。
 
-> **［圖 12-6．武器綁固］**　原文圖說：Figure 12-6. Weapon rigging
+<figure>
+  <img src="/images/ranger-handbook/fig-12-06.png" alt="圖 12-6．武器綁固" />
+  <figcaption>圖 12-6．武器綁固（原書 p.12-13）<br />原文圖說：Figure 12-6. Weapon rigging</figcaption>
+</figure>
 
 **12-23.** 將背包**框架朝內**放入艇內，穿過背包頂部的鉤環綁牢。將中央繩靠近艇首的一端，以**繞一圈半加兩個快速解脫結**繫在浮力管左側或右側的 D 形環上（見第 12-12 頁圖 12-5）。以鉤環將 M240 機槍扣在艇首的 D 形環上、M249 機槍扣在中央繩上，並確保武器位於背包上方。
 
@@ -236,7 +254,10 @@ status: published
   - (4) **雙人報數（short count）**：乘員在小艇位於水中時，**兩兩一組**從艇側上下艇的方式。適用於淺水，可讓小艇迅速離水。主要用於**碎浪區**作業。
   - (5) **搶灘**：讓全體乘員一次下到淺水中，並迅速將小艇拖離水面的下艇方式。
 
-> **［圖 12-7．乘員位置——單人報數與雙人報數］**　原文圖說：Figure 12-7. Crew positions – long count and short count
+<figure>
+  <img src="/images/ranger-handbook/fig-12-07.png" alt="圖 12-7．乘員位置——單人報數與雙人報數" />
+  <figcaption>圖 12-7．乘員位置——單人報數與雙人報數（原書 p.12-15）<br />原文圖說：Figure 12-7. Crew positions – long count and short count</figcaption>
+</figure>
 
 **12-25.** 舵手下達在陸上搬運小艇與在水中操控小艇的口令。所有乘員都要熟記舵手的所有口令並**立即反應**。各項口令如下：
 
@@ -387,7 +408,10 @@ status: published
 
 **12-36.** 判定水流流速，是有效且安全實施隱密渡越間隙的**關鍵**。使用小艇時，水流流速有助於領導者判定導航用的航行速度，並用於倉促計畫。合理的估算方法是：沿河岸量出一段距離，記錄**漂浮物**流過這段距離所需的時間，**距離除以時間**即得水流流速（公尺／秒）（見圖 12-8）。
 
-> **［圖 12-8．測量水流流速］**　原文圖說：Figure 12-8. Measuring current velocity
+<figure>
+  <img src="/images/ranger-handbook/fig-12-08.png" alt="圖 12-8．測量水流流速" />
+  <figcaption>圖 12-8．測量水流流速（原書 p.12-21）<br />原文圖說：Figure 12-8. Measuring current velocity</figcaption>
+</figure>
 
 **12-37.** 將期望的最大水流流速對應到熟悉的比較單位，有助於估算水流流速。以下是流速與對應的英里／小時及節數：
 

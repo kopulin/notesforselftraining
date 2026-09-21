@@ -190,9 +190,15 @@ status: published
 
 **13-5.** 車載巡邏只要出動，尤其是在敵對環境中，就有遭遇伏擊、**被迫停車**或其他潛在危險狀況的可能。遊騎兵接受完整的運動訓練，以便在這些情況下保護自己與同袍。圖 13-1 與圖 13-2 詳述車載巡邏反應伏擊的各種方法。
 
-> **［圖 13-1．車載巡邏反應近距伏擊］**　原文圖說：Figure 13-1. Mounted patrol reacting to near ambush
+<figure>
+  <img src="/images/ranger-handbook/fig-13-01.png" alt="圖 13-1．車載巡邏反應近距伏擊" />
+  <figcaption>圖 13-1．車載巡邏反應近距伏擊（原書 p.13-6）<br />原文圖說：Figure 13-1. Mounted patrol reacting to near ambush</figcaption>
+</figure>
 
-> **［圖 13-2．車載巡邏反應遠距伏擊］**　原文圖說：Figure 13-2. Mounted patrol reacting to far ambush
+<figure>
+  <img src="/images/ranger-handbook/fig-13-02.png" alt="圖 13-2．車載巡邏反應遠距伏擊" />
+  <figcaption>圖 13-2．車載巡邏反應遠距伏擊（原書 p.13-7）<br />原文圖說：Figure 13-2. Mounted patrol reacting to far ambush</figcaption>
+</figure>
 
 ---
 
@@ -208,7 +214,10 @@ status: published
 
 **13-8.** 排長判斷狀況並實施機動，以壓制敵軍並取得火力優勢。排長研判威脅已排除後，即展開**車輛回收（recovery）** 與傷患後送作業。若排長研判本隊無法取得火力優勢以排除威脅，則實施**脫離接觸**程序。圖 13-3 詳述車載巡邏被迫停車時所用的方法一。
 
-> **［圖 13-3．車載巡邏被迫停車——方法一］**　原文圖說：Figure 13-3. Mounted patrol forced to stop, method one
+<figure>
+  <img src="/images/ranger-handbook/fig-13-03.png" alt="圖 13-3．車載巡邏被迫停車——方法一" />
+  <figcaption>圖 13-3．車載巡邏被迫停車——方法一（原書 p.13-9）<br />原文圖說：Figure 13-3. Mounted patrol forced to stop, method one</figcaption>
+</figure>
 
 ---
 
@@ -218,7 +227,10 @@ status: published
 
 **13-10.** 本隊一旦取得火力優勢，排長即以**必要的最低限度武力**殲滅敵軍。反之，若排長研判本隊無法取得火力優勢，則脫離接觸。圖 13-4 詳述車載巡邏被迫停車時所用的方法二。
 
-> **［圖 13-4．車載巡邏被迫停車——方法二］**　原文圖說：Figure 13-4. Mounted patrol forced to stop, method two
+<figure>
+  <img src="/images/ranger-handbook/fig-13-04.png" alt="圖 13-4．車載巡邏被迫停車——方法二" />
+  <figcaption>圖 13-4．車載巡邏被迫停車——方法二（原書 p.13-11）<br />原文圖說：Figure 13-4. Mounted patrol forced to stop, method two</figcaption>
+</figure>
 
 ---
 
@@ -232,7 +244,10 @@ status: published
 
 **13-14.** 若脫離接觸時車輛分處接觸區**兩側**，則以**交替轉移**的方式實施。進占目標集合點後，領導者立即部署車輛建立**三百六十度警戒**，並實施整補與重編。圖 13-5 詳述脫離接觸的作法。
 
-> **［圖 13-5．車載巡邏脫離接觸］**　原文圖說：Figure 13-5. Mounted patrol breaking contact
+<figure>
+  <img src="/images/ranger-handbook/fig-13-05.png" alt="圖 13-5．車載巡邏脫離接觸" />
+  <figcaption>圖 13-5．車載巡邏脫離接觸（原書 p.13-13）<br />原文圖說：Figure 13-5. Mounted patrol breaking contact</figcaption>
+</figure>
 
 ---
 
@@ -244,7 +259,10 @@ status: published
 
 **13-17.** 離開接觸區後，本隊實施完整、正確的掛結程序。領導者研判回收需要外部支援時，向上級指揮部請示。領導者可**放棄**故障車輛或請求將其**破壞**。回收作業完成後，該組轉移並在集合點實施會合。圖 13-6 詳述傷患後送與車輛回收作業。
 
-> **［圖 13-6．傷患後送與車輛回收作業］**　原文圖說：Figure 13-6. Casualty evacuation and recovery operations
+<figure>
+  <img src="/images/ranger-handbook/fig-13-06.png" alt="圖 13-6．傷患後送與車輛回收作業" />
+  <figcaption>圖 13-6．傷患後送與車輛回收作業（原書 p.13-15）<br />原文圖說：Figure 13-6. Casualty evacuation and recovery operations</figcaption>
+</figure>
 
 ---
 

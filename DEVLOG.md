@@ -4,6 +4,63 @@
 
 ---
 
+## 2026-09-20 — TC 3-21.76 全書抽圖完成（P1）
+
+由 Claude Code 執行。開工前先裝好抽圖需要的環境（pymupdf 沒裝過，順帶修好一個 Homebrew 環境問題），再做抽圖。
+
+### 環境安裝
+
+- `python3`（系統內建 CommandLineTools 3.9）以 `pip install --user pymupdf` 裝上 `pymupdf 1.26.5`，抽圖用這個環境。
+- 意外發現 Homebrew 的 `python@3.12` 完全壞掉：`pyexpat` 連到的系統 `libexpat` 缺一個符號（`_XML_SetAllocTrackerActivationThreshold`），導致 `pip` 打不開。用 `brew install expat`（keg-only）+ `install_name_tool -change` 把 `pyexpat.so` 改連 Homebrew 版 libexpat，再 `codesign --force -s -` 補簽章（改二進位檔會讓簽章失效，直接執行會被系統 kill／exit 137）修好。**這個修補下次 `brew reinstall python@3.12` 會被蓋掉**，要重修。
+
+### 完成項目
+
+| 項目 | 結果 |
+|------|------|
+| 抽圖 | **145 張**，200 dpi PNG，存於 `docs/public/images/ranger-handbook/` |
+| 命名 | `fig-<章2位>-<序2位>.png`，附錄 `fig-a-01`／`fig-b-01`，`10-4A`／`10-4B` 兩張子圖用 `fig-10-04a`／`fig-10-04b` |
+| 佔位替換 | 16 個檔、**145 處**全部轉為 `<figure>` 區塊 |
+| 總大小 | 約 20.8 MB |
+| 首頁文案 | `docs/index.md`、`docs/ranger-handbook/index.md` 的「圖片尚未抽出」文案改為已完成 |
+
+### 做法（比照 ATP 方案 B，但改良比對邏輯）
+
+1. 從 16 個章節檔解析全部 145 個佔位（`［圖 X-Y．中文說明］原文圖說：Figure X-Y. ...`），取得每個 fid 與原文圖說全文。
+2. **單次掃描全書 380 頁**（用 `get_text("dict")` 取每行文字＋bbox，比對「行首」是否為 `Figure X-Y.`），一次建好「fid → 出現位置」的索引，而非每個 fid 各自對全書 `search_for` 一次（後者 145×380 次全文搜尋，跑了 2 分半且效能不穩；改成單次掃描後 <10 秒）。
+3. **caption 比對關鍵教訓**：一開始直接用 `page.search_for("Figure X-Y.")` 比對，抓到的是「整份文件裡任何位置的這串字」，結果把內文夾雜的交叉引用句（例如「...uses mechanical devices (see Figure 9-20)...)」誤判成圖說，導致 `9-19`／`9-20` 兩個不同的圖被誤配到同一張圖片。改成**只認一行的行首文字**（`line.strip().startswith("Figure X-Y.")`）就排除了這類內文引用（內文引用不會單獨佔一行的開頭）。
+4. 每個 caption 往上找最近的圖片 bbox（垂直間距 <90pt、水平置中相近或該頁僅一張圖），取間距最小者。
+5. 渲染：`page.get_pixmap(clip=圖片bbox, dpi=200)`。
+
+### 驗收（比照 AGENTS.md〈圖片處理工序規格〉）
+
+- `grep -rn '［圖' docs/ranger-handbook/*.md` → **0**
+- `<figure>`／`<img>`／`<figcaption>`／`</figure>` 標籤數四者在每個檔案內都相等
+- 磁碟圖檔 145 張 ＝ markdown 內唯一圖片引用 145 處，無重複配對、無失效連結
+- `npm run docs:build` 通過，無 dead link 警告
+- 本機 `vitepress dev` 預覽 Ch09（機械式確保器 9-19／9-20 兩張圖分別正確顯示，未再共用同一張圖）截圖確認正常
+
+### 除錯過程中修正的兩類配對錯誤（供下次抽圖參考）
+
+1. **內文交叉引用誤判為圖說**（見上「做法」第 3 點）：`9-19`／`9-20` 曾被誤配到同一張圖，改用「行首比對」修正。
+2. **caption 靠左對齊、圖片置中的頁面**：`B-4` 那頁的圖說是從頁面左邊界起排（而非置中），原本「水平置中相近」的比對條件抓不到；加上「該頁只有一張圖片就直接採用」的 fallback 後修正。
+
+### 工具留存
+
+- 這次的抽圖腳本整理成 `tools/extract_figures.py`（ATP 當初的腳本沒有留下來，這次補上，之後如果再加新手冊可以直接沿用或修改）。
+
+### 下一步 To-Do
+
+- [ ] P1｜兩份手冊逐章內容驗收（ATP Ch02–20＋附錄、TC 全書），目前僅使用者驗收過 ATP Ch01 與 TC Ch01 的術語
+- [ ] P2｜TC Ch10 機槍運用的射擊分類譯名確認（是否改用國軍慣用語）
+- [ ] P3｜術語表是否併入網站當參考頁、跨文件術語總表是否需要頁面
+
+### 環境異動
+
+- `python3`（系統 3.9，`--user` 範圍）新增 `pymupdf 1.26.5`
+- Homebrew `python@3.12` 的 `pyexpat.so` 手動 patch 連結對象並重簽章（見上，會被下次 `brew reinstall`／`brew upgrade python@3.12` 蓋掉）
+
+---
+
 ## 2026-09-18（延續場）— 整併分岔＋執行首頁分流多手冊架構
 
 > **接續上一則「裁示」場次，本場把架構決策付諸實作：整併本機／遠端分岔、改 AGENTS.md／CLAUDE.md、VitePress 多手冊改版全部完成並上線。**

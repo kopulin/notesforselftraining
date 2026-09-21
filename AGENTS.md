@@ -19,7 +19,7 @@
 | 文件 | 位置 | 狀態 |
 |------|------|------|
 | ATP 4-02.11《Casualty Response (TCCC and First Aid)》 | 譯文 [`docs/atp-4-02.11/`](docs/atp-4-02.11/)　原始 PDF [`ATP_4-02.11/`](ATP_4-02.11/) | 翻譯完成，網站已架設 |
-| TC 3-21.76《Ranger Handbook》 | 譯文 [`docs/ranger-handbook/`](docs/ranger-handbook/)　原始 PDF [`TC_3-21.76/`](TC_3-21.76/) | **文字全數翻譯完成**，已併入網站（`/ranger-handbook/`），待驗收與抽圖（圖片仍為文字佔位） |
+| TC 3-21.76《Ranger Handbook》 | 譯文 [`docs/ranger-handbook/`](docs/ranger-handbook/)　原始 PDF [`TC_3-21.76/`](TC_3-21.76/) | 翻譯完成，網站已架設，**145 張圖片已抽出並嵌入**（2026-09-20），待逐章內容驗收 |
 
 ATP 4-02.11 章節（檔案欄為架站後的 canonical 檔名）：
 
@@ -56,6 +56,7 @@ ATP 4-02.11 章節（檔案欄為架站後的 canonical 檔名）：
 > ⏳ 剩 P3：合併術語表、譯文逐章內容驗收（機器驗證都過，內容層面未經使用者確認）、GitHub Pages 首次啟用。
 > ℹ️ 2026-08-29 發佈架構定案：單一 repo + VitePress，詳見 DEVLOG 第五場。
 > ✅ **2026-09-18 首頁分流完成**：`docs/index.md` 改為手冊選單（2 張卡片），ATP 首頁搬到 `docs/atp-4-02.11/index.md`，新增 `docs/ranger-handbook/`（TC 3-21.76，19 個檔案：前言＋Ch01–15＋附錄 A/B＋詞彙表＋自己的 index.md）。`config.ts` 的 `sidebar` 改為依路徑分流的物件（`/atp-4-02.11/`、`/errata`、`/ranger-handbook/` 各自一份），`nav`／`title`／`footer` 改為涵蓋兩份手冊的中性文案。TC 章節內 6 處 WARNING／CAUTION／DANGER blockquote 一併轉為 VitePress container（DANGER 比照 WARNING 用 `::: danger`），NOTE 維持 blockquote。`npm run docs:build` 通過，本機預覽確認側欄分流與 container 樣式正確。
+> ✅ **2026-09-20 TC 3-21.76 全書抽圖完成**：145 張 200 dpi PNG 存於 `docs/public/images/ranger-handbook/`，145 處佔位全數轉為 `<figure>` 區塊。做法比照 ATP：以 PyMuPDF 掃描全書比對「Figure X-Y.」行首 caption 與其上方圖片 bbox（單次掃描全書建索引，而非逐張搜尋，387 頁全書 <10 秒），驗收（`grep`　`［圖`　0 殘留、`<figure>`／`<img>`／`<figcaption>`／`</figure>` 標籤數四者相等、145 張圖檔＝145 處引用、無重複配對）全數通過。`docs/index.md`／`docs/ranger-handbook/index.md` 免責文案同步更新為「圖片已完成」。
 
 原始 PDF：`ATP_4-02.11/ATP_4-02.11_Casualty_Response_TCCC_and_First_Aid_March_2026.pdf`（不進 `docs/`）
 
@@ -117,21 +118,19 @@ TC 3-21.76 章節（2025 年 9 月 19 日版，共 380 頁；PDF 頁為檔案實
 3. **藥名、劑量、單位**：
    - **藥名與藥品劑量**：完全照原文，**不做任何換算**（例：`acetaminophen 500 mg × 2`）。
    - **英制單位**（長度、距離、重量、溫度等）：保留原數值，括號內加註公制換算，例：「2 英寸（約 5 公分）」「華氏 104 度（攝氏 40 度）」。譯註區塊須註明「實際操作請以原文數值為準」。
-4. **結構對齊**：保留原書的標題階層、編號、表格。警告框（WARNING / CAUTION / NOTE）——已併入 `docs/` 的手冊（目前僅 ATP 4-02.11）統一為 VitePress container：WARNING → `::: danger 警告（WARNING）`、CAUTION → `::: warning 注意（CAUTION）`、IMPORTANT → `::: warning 重要（IMPORTANT!）`；零星的 `> **註**：…`（NOTE）維持 blockquote。**尚未併入網站的手冊**（目前為 TC 3-21.76）維持 `> ### ⚠️ 警告（WARNING）` 等原始 blockquote 格式，併站時再統一轉換。
-5. **圖片**：原圖保留英文不重繪，圖下補中文圖說，並標注原書頁碼。依手冊所在階段採不同格式——
-   - **翻譯／未抽圖階段**（目前為 TC 3-21.76）：圖片尚未抽出，以文字佔位：`> ［圖 X-X．中文圖說］　原文圖說：Figure X-X. ...`
-   - **已抽圖並併入網站**（目前為 ATP 4-02.11，2026-08-29 起適用，全書已套用）：一律使用 `<figure>` 區塊，`<figcaption>` 依序放中文圖說、原書頁碼、原文圖說：
+4. **結構對齊**：保留原書的標題階層、編號、表格。警告框（WARNING / CAUTION / NOTE）——兩份手冊皆已併入 `docs/`，統一為 VitePress container：WARNING／DANGER → `::: danger`、CAUTION／IMPORTANT → `::: warning`；零星的 `> **註**：…`（NOTE）維持 blockquote。
+5. **圖片**：原圖保留英文不重繪，圖下補中文圖說，並標注原書頁碼。兩份手冊（ATP 4-02.11、TC 3-21.76）皆已完成抽圖並併入網站，一律使用 `<figure>` 區塊，`<figcaption>` 依序放中文圖說、原書頁碼、原文圖說：
 
-     ```html
-     <figure>
-       <img src="<路徑>/fig-06-01.png" alt="圖 6-1．附閥式胸封貼範例" />
-       <figcaption>圖 6-1．附閥式胸封貼範例（原書 p.74）<br />原文圖說：Figure 6-1. Vented chest seal examples</figcaption>
-     </figure>
-     ```
+   ```html
+   <figure>
+     <img src="<路徑>/fig-06-01.png" alt="圖 6-1．附閥式胸封貼範例" />
+     <figcaption>圖 6-1．附閥式胸封貼範例（原書 p.74）<br />原文圖說：Figure 6-1. Vented chest seal examples</figcaption>
+   </figure>
+   ```
 
-     - `alt` 與 `<figcaption>` 的中文圖說必須一致
-     - `src` 用絕對路徑 `/images/<手冊代號>/…`，**不加** `base` 前綴（VitePress 規則）
-   - **抽圖流程**：以 PyMuPDF 依版面範圍重新渲染（200 dpi PNG），再把佔位改為上述 `<figure>` 格式＋原書頁碼
+   - `alt` 與 `<figcaption>` 的中文圖說必須一致
+   - `src` 用絕對路徑 `/images/<手冊代號>/…`，**不加** `base` 前綴（VitePress 規則）
+   - **抽圖流程**（新增手冊時比照辦理）：以 PyMuPDF 依版面座標找出圖片 bbox 並重新渲染（200 dpi PNG），再把佔位改為上述 `<figure>` 格式＋原書頁碼
 6. **不確定處**：術語或語意有疑義時停下來問使用者，不自行假設。
 
 ---

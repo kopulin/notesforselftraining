@@ -20,7 +20,10 @@ status: published
 
 **6-1.** **運動隊形（movement formations）** 是指各單位與遊騎兵彼此相對的排列方式。火力伍、班與排會使用數種隊形。隊形讓領導者依 METT-TC (I) 分析取得掌控。領導者站在最能指揮與引導隊形的位置，各隊形見圖 6-1。常見的隊形有**橫隊、V 字形、梯形、菱形、楔形與縱隊**。
 
-> **［圖 6-1．隊形種類］**　原文圖說：Figure 6-1. Formation types
+<figure>
+  <img src="/images/ranger-handbook/fig-06-01.png" alt="圖 6-1．隊形種類" />
+  <figcaption>圖 6-1．隊形種類（原書 p.6-1）<br />原文圖說：Figure 6-1. Formation types</figcaption>
+</figure>
 >
 > **圖例**：以火力伍（伍長＋3 名伍員）示範六種隊形，TL 為伍長位置——**橫隊（LINE）**：四人一字排開，伍長居中；**V 字形（VEE）**：伍長在前方中央，兩側各一人向後展開；**梯形（ECHELON）**：四人斜向排成一線，伍長在最前端；**菱形（DIAMOND）**：伍長在前方頂點，左右各一人、後方一人；**楔形（WEDGE）**：伍長在前方頂點，其餘三人向後呈 V 字展開；**縱隊（FILE）**：四人前後排成一列，伍長在第二位。
 
@@ -77,11 +80,17 @@ status: published
     - (e) 單位其餘部分的反應能力。
     - (f) 下一個監視位置的射界。
 
-> **［圖 6-2．班躍進監視範例］**　原文圖說：Figure 6-2. Example of squad bounding overwatch
+<figure>
+  <img src="/images/ranger-handbook/fig-06-02.png" alt="圖 6-2．班躍進監視範例" />
+  <figcaption>圖 6-2．班躍進監視範例（原書 p.6-4）<br />原文圖說：Figure 6-2. Example of squad bounding overwatch</figcaption>
+</figure>
 >
 > **圖例**：上半部為**連續躍進（SUCCESSIVE BOUNDS）**：兩組自初始位置交替前進，每次躍進後第二組都停在與第一組大致同一線的位置（第 1～4 次運動）。下半部為**交互躍進（ALTERNATING BOUNDS）**：兩組自初始位置出發，每次躍進都越過另一組、停在其前方（第 1～3 次運動）。
 
-> **［圖 6-3．排躍進監視範例］**　原文圖說：Figure 6-3. Example of platoon bounding overwatch
+<figure>
+  <img src="/images/ranger-handbook/fig-06-03.png" alt="圖 6-3．排躍進監視範例" />
+  <figcaption>圖 6-3．排躍進監視範例（原書 p.6-5）<br />原文圖說：Figure 6-3. Example of platoon bounding overwatch</figcaption>
+</figure>
 >
 > **圖例**：在等高線地形上，**監視班（OVERWATCHING SQUAD）** 占領高處位置，**躍進班（BOUNDING SQUAD）** 沿箭頭方向繞行前進，**待命班（SQUAD AWAITING ORDERS）** 位於後方。
 
@@ -234,7 +243,10 @@ status: published
 4. 班長帶著無線電話務員與 B 伍通過線狀危險地區（班任務時由 A 伍提供監視）。
 5. A 伍依班長口令或手臂信號，恢復原方位角前進。
 
-> **［圖 6-4．通過線狀危險地區的行動範例］**　原文圖說：Figure 6-4. Examples of linear danger area actions
+<figure>
+  <img src="/images/ranger-handbook/fig-06-04.png" alt="圖 6-4．通過線狀危險地區的行動範例" />
+  <figcaption>圖 6-4．通過線狀危險地區的行動範例（原書 p.6-10）<br />原文圖說：Figure 6-4. Examples of linear danger area actions</figcaption>
+</figure>
 >
 > **圖例**：以排為例的三個階段——**左**：領頭伍通過危險地區，並為排的其餘人員清查遠側區域。**中**：榴彈手與步槍兵留在危險地區遠側；伍長與自動步槍手返回，向排示意可以前進。排長上前，等候伍長的清查結果後再移動；排士官長分派兩翼掩護；殿後班上前擔任兩翼掩護。**右**：領頭伍清查危險地區後，繼續帶領全排前進；殿後伍返回原本位置。
 
@@ -268,7 +280,10 @@ status: published
 6. 依排長指示前進設定的距離後，領頭班恢復原方位角，主要步測手恢復原本的步測計數。
 7. 通過開闊區後，預備步測手兼方位手再將方位向左或向右偏移 90 度，帶領排或班前進**相同距離（公尺）**，回到原方位角路線上。
 
-> **［圖 6-5．通過小型開闊危險地區的範例］**　原文圖說：Figure 6-5. Examples of crossing a small, open danger area
+<figure>
+  <img src="/images/ranger-handbook/fig-06-05.png" alt="圖 6-5．通過小型開闊危險地區的範例" />
+  <figcaption>圖 6-5．通過小型開闊危險地區的範例（原書 p.6-12）<br />原文圖說：Figure 6-5. Examples of crossing a small, open danger area</figcaption>
+</figure>
 >
 > **圖例**：兩種方法並列，中央為小型開闊區（SMALL OPEN AREA），箭頭為行進方向——**左：沿開闊區周邊繞行（CONTOUR AROUND OPEN AREA）**：自近側集合點沿林線邊緣繞過開闊區，抵達遠側集合點。**右：繞道迂迴法（DETOUR BYPASS METHOD）**：自近側集合點轉 90 度前進一段距離，再轉回原方位角（ORIGINAL AZIMUTH）直行通過開闊區側方，最後轉 90 度前進相同距離回到原路線，抵達遠側集合點。
 
@@ -305,43 +320,82 @@ status: published
 - 信號以觀看者通常看到的角度繪製。
 - 部分信號為求清楚，以斜視、側視或俯視角度繪製。
 
-> **［圖 6-6．集合或集結信號］**　原文圖說：Figure 6-6. Assemble or rally signal
+<figure>
+  <img src="/images/ranger-handbook/fig-06-06.png" alt="圖 6-6．集合或集結信號" />
+  <figcaption>圖 6-6．集合或集結信號（原書 p.6-14）<br />原文圖說：Figure 6-6. Assemble or rally signal</figcaption>
+</figure>
 > **圖例**：單手高舉過頭，在頭頂上方水平畫圈（雙箭頭，連續重複）。
 
-> **［圖 6-7．向我集中、跟我來或上前信號］**　原文圖說：Figure 6-7. Join me, follow me, or come forward signal
+<figure>
+  <img src="/images/ranger-handbook/fig-06-07.png" alt="圖 6-7．向我集中、跟我來或上前信號" />
+  <figcaption>圖 6-7．向我集中、跟我來或上前信號（原書 p.6-14）<br />原文圖說：Figure 6-7. Join me, follow me, or come forward signal</figcaption>
+</figure>
 > **圖例**：手臂向前伸出、掌心朝前，再朝自己方向向後揮動。
 
-> **［圖 6-8．發現敵人信號］**　原文圖說：Figure 6-8. Enemy in sight signal
+<figure>
+  <img src="/images/ranger-handbook/fig-06-08.png" alt="圖 6-8．發現敵人信號" />
+  <figcaption>圖 6-8．發現敵人信號（原書 p.6-14）<br />原文圖說：Figure 6-8. Enemy in sight signal</figcaption>
+</figure>
 > **圖例**：兩種做法——持槍抵肩、槍口指向敵方；或手臂伸直指向敵人方向。
 
-> **［圖 6-9．掩蔽信號］**　原文圖說：Figure 6-9. Take cover signal
+<figure>
+  <img src="/images/ranger-handbook/fig-06-09.png" alt="圖 6-9．掩蔽信號" />
+  <figcaption>圖 6-9．掩蔽信號（原書 p.6-15）<br />原文圖說：Figure 6-9. Take cover signal</figcaption>
+</figure>
 > **圖例**：手臂向斜上方伸出，再向下揮向地面。
 
-> **［圖 6-10．查看地圖信號］**　原文圖說：Figure 6-10. Map check signal
+<figure>
+  <img src="/images/ranger-handbook/fig-06-10.png" alt="圖 6-10．查看地圖信號" />
+  <figcaption>圖 6-10．查看地圖信號（原書 p.6-15）<br />原文圖說：Figure 6-10. Map check signal</figcaption>
+</figure>
 > **圖例**：一手在另一手掌上方，模擬攤開地圖的動作。
 
-> **［圖 6-11．停止信號］**　原文圖說：Figure 6-11. Halt signal
+<figure>
+  <img src="/images/ranger-handbook/fig-06-11.png" alt="圖 6-11．停止信號" />
+  <figcaption>圖 6-11．停止信號（原書 p.6-15）<br />原文圖說：Figure 6-11. Halt signal</figcaption>
+</figure>
 > **圖例**：手臂向上舉起、手肘彎曲，掌心朝前（背面視角）。
 
-> **［圖 6-12．單膝跪地信號］**　原文圖說：Figure 6-12. Take a knee signal
+<figure>
+  <img src="/images/ranger-handbook/fig-06-12.png" alt="圖 6-12．單膝跪地信號" />
+  <figcaption>圖 6-12．單膝跪地信號（原書 p.6-15）<br />原文圖說：Figure 6-12. Take a knee signal</figcaption>
+</figure>
 > **圖例**：手臂向側下方伸出，掌心朝下（背面視角）。
 
-> **［圖 6-13．臥倒信號］**　原文圖說：Figure 6-13. Move to the prone signal
+<figure>
+  <img src="/images/ranger-handbook/fig-06-13.png" alt="圖 6-13．臥倒信號" />
+  <figcaption>圖 6-13．臥倒信號（原書 p.6-16）<br />原文圖說：Figure 6-13. Move to the prone signal</figcaption>
+</figure>
 > **圖例**：單膝跪姿，手臂向側方伸出、掌心朝下，上下擺動（雙箭頭）。
 
-> **［圖 6-14．步測計數信號］**　原文圖說：Figure 6-14. Pace count signal
+<figure>
+  <img src="/images/ranger-handbook/fig-06-14.png" alt="圖 6-14．步測計數信號" />
+  <figcaption>圖 6-14．步測計數信號（原書 p.6-16）<br />原文圖說：Figure 6-14. Pace count signal</figcaption>
+</figure>
 > **圖例**：抬起一腳，以手輕拍腳底或腳跟。
 
-> **［圖 6-15．清點人數信號］**　原文圖說：Figure 6-15. Headcount signal
+<figure>
+  <img src="/images/ranger-handbook/fig-06-15.png" alt="圖 6-15．清點人數信號" />
+  <figcaption>圖 6-15．清點人數信號（原書 p.6-16）<br />原文圖說：Figure 6-15. Headcount signal</figcaption>
+</figure>
 > **圖例**：手在頭部一側斜向來回擺動（雙箭頭）。
 
-> **［圖 6-16．危險地區信號］**　原文圖說：Figure 6-16. Danger area signal
+<figure>
+  <img src="/images/ranger-handbook/fig-06-16.png" alt="圖 6-16．危險地區信號" />
+  <figcaption>圖 6-16．危險地區信號（原書 p.6-16）<br />原文圖說：Figure 6-16. Danger area signal</figcaption>
+</figure>
 > **圖例**：手掌平伸，在喉嚨前方橫向劃過（單箭頭）。
 
-> **［圖 6-17．不動信號］**　原文圖說：Figure 6-17. Freeze signal
+<figure>
+  <img src="/images/ranger-handbook/fig-06-17.png" alt="圖 6-17．不動信號" />
+  <figcaption>圖 6-17．不動信號（原書 p.6-17）<br />原文圖說：Figure 6-17. Freeze signal</figcaption>
+</figure>
 > **圖例**：手臂舉起、手肘彎曲，握拳。
 
-> **［圖 6-18．數字信號］**　原文圖說：Figure 6-18. Number signals
+<figure>
+  <img src="/images/ranger-handbook/fig-06-18.png" alt="圖 6-18．數字信號" />
+  <figcaption>圖 6-18．數字信號（原書 p.6-17）<br />原文圖說：Figure 6-18. Number signals</figcaption>
+</figure>
 > **圖例**：以單手手指比出數字 1 至 9 的手勢（1～5 為伸出對應手指數，6～9 為特定的手指與拇指組合）。
 
 > **譯註**：圖 6-6 至 6-18 的圖例說明為譯者依原圖描述，實際動作請以原圖為準，抽圖後會將原圖放在說明上方。
