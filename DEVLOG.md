@@ -1,6 +1,29 @@
-# DEVLOG — Document_Traslate
+# DEVLOG — notesforselftraining
 
 接手時先讀最新一則（由上往下新→舊）。
+
+---
+
+## 2026-11-07 — 專案改名：Document_Traslate → notesforselftraining
+
+由 Claude Code 執行。使用者希望網站網址改為 `https://kopulin.github.io/notesforselftraining/`。GitHub Pages 的專案網址固定是 `<user>.github.io/<repo 名>/`，所以做法是**把 GitHub repo 本身改名**（保留全部歷史，不另建新 repo）。
+
+### 改動
+
+| 項目 | 內容 |
+|------|------|
+| `docs/.vitepress/config.ts` | `base` 由 `/Document_Traslate/` 改為 `/notesforselftraining/` |
+| `docs/atp-4-02.11/index.md` | 橫幅內寫死的勘誤連結 `/Document_Traslate/errata` → `/notesforselftraining/errata`（行內 HTML 的 `<a>` 不會被 VitePress 自動補 base，所以要手改） |
+| `CLAUDE.md`／`AGENTS.md` | 標題、Git Remote、專案結構、`pwd`／`git remote -v` 檢查規則、`base` 說明全數改成新名；原「repo 名沿用既有拼寫，勿改」註記改為記錄改名日期 |
+| 本檔舊條目 | **不改**（歷史紀錄，保留當時的名稱） |
+
+### 副作用／注意
+
+- 舊網址 `https://kopulin.github.io/Document_Traslate/…` 改名後**立即失效**（Pages 網址不會自動轉址；repo 網址會轉址）。
+- 本機依父層規則「資料夾名＝repo 名」，資料夾同步改為 `notesforselftraining/`，父層 `/Projects/.gitignore` 的條目同步更新。
+- 本機 remote 需 `git remote set-url origin https://github.com/kopulin/notesforselftraining.git`。
+- 改名後需確認 Settings → Pages 的 Source 仍是 GitHub Actions，並重跑一次部署。
+- `.claude/launch.json` 的 dev server 名稱 `document-traslate` 未改（僅本機用）；本機預覽網址現為 `http://localhost:5174/notesforselftraining/`。
 
 ---
 

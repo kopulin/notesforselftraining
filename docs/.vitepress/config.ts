@@ -111,7 +111,7 @@ export default defineConfig({
   description:
     '美軍準則手冊逐章繁體中文翻譯（ATP 4-02.11、TC 3-21.76），僅供訓練參考。',
 
-  base: '/Document_Traslate/',
+  base: '/notesforselftraining/',
   cleanUrls: true,
   lastUpdated: true,
 

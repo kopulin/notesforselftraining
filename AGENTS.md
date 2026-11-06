@@ -1,4 +1,4 @@
-# AGENTS.md — Document_Traslate
+# AGENTS.md — notesforselftraining
 
 軍事／技術文件翻譯專案。任何 agent 接手前先讀完本文件。
 完整規則見 [`CLAUDE.md`](CLAUDE.md)，父層共用規則見 [`/Projects/CLAUDE.md`](../CLAUDE.md)；衝突時以 `CLAUDE.md` >父層為準。
@@ -9,7 +9,7 @@
 
 **產品：** 把英文原版文件（PDF）逐章翻譯成繁體中文 Markdown，並保留原書的圖片與版面對應關係。
 **範圍：** 本 repo 同時放翻譯內容（PDF、`.md` 譯文、圖片、術語表）**與**發佈用的 VitePress 網站（`docs/`、主題、部署設定），比照 [`/Projects/tccc-notes/`](../tccc-notes/)。`docs/` 內的 Markdown 與圖片為單一事實來源。（2026-08-29 決策，取代舊「另開 repo」規則）
-**Git Remote：** `https://github.com/kopulin/Document_Traslate.git`（repo 名沿用 GitHub 上的既有拼寫，勿改）
+**Git Remote：** `https://github.com/kopulin/notesforselftraining.git`（2026-11-07 由 `Document_Traslate` 改名，網站網址 `https://kopulin.github.io/notesforselftraining/`）
 **語言：** 所有回覆與交付文件使用繁體中文，專有名詞、軍語、藥名保留英文原文並在首次出現時加註中文。
 
 ---
@@ -183,7 +183,7 @@ docs/
 - 搬檔改 slug；每章補 frontmatter（`title` / `order` / `status`）
 - 警告框 `> **WARNING / CAUTION / NOTE**` → VitePress container：`::: danger` / `::: warning` / `::: info`
 - 來源標頭、譯註區塊保留，樣式交給主題
-- `config.ts` 側欄依原書順序（章在前、附錄在後）；`base` 設為 `/Document_Traslate/`
+- `config.ts` 側欄依原書順序（章在前、附錄在後）；`base` 設為 `/notesforselftraining/`
 - 圖片路徑一律絕對路徑 `/images/atp-4-02.11/…`，**不加** `base` 前綴（VitePress 規則）
 
 ### 加值項目（使用者已同意，全做）
@@ -248,7 +248,7 @@ docs/
 
 ## Agent 工作規則
 
-- 執行任何 git 指令前先 `pwd` 確認在本資料夾，`git remote -v` 尾段必須是 `Document_Traslate.git`。
+- 執行任何 git 指令前先 `pwd` 確認在本資料夾，`git remote -v` 尾段必須是 `notesforselftraining.git`。
 - 一次處理一章，翻完等使用者驗收再繼續下一章。
 - 一次只推進一個階段（翻譯／圖片工序／架站／驗收），做完等使用者驗收再進下一階段。
 - 網站相關工作比照 [`/Projects/tccc-notes/`](../tccc-notes/) 與 `deploy-to-github-pages` skill。

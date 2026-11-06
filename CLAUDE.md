@@ -1,4 +1,4 @@
-# CLAUDE.md — Document_Traslate
+# CLAUDE.md — notesforselftraining
 
 這是 Claude 的 agent 指令檔。父層共用規則見 [`/Projects/CLAUDE.md`](../CLAUDE.md)，本檔補充本專案專屬規則。
 Codex／其他 agent 讀 [`AGENTS.md`](AGENTS.md)，兩份以本檔為準。
@@ -8,7 +8,7 @@ Codex／其他 agent 讀 [`AGENTS.md`](AGENTS.md)，兩份以本檔為準。
 ## 專案定位
 
 **用途：** 存放翻譯文件，並把譯文發佈為線上可查閱的靜態網站。把英文原版文件（PDF）逐章翻譯成繁體中文（交付格式 Markdown），再以 VitePress 打包成網站，部署到 GitHub Pages。
-**Git Remote：** `https://github.com/kopulin/Document_Traslate.git`（repo 名沿用 GitHub 既有拼寫，勿改）
+**Git Remote：** `https://github.com/kopulin/notesforselftraining.git`（2026-11-07 由 `Document_Traslate` 改名，網站網址 `https://kopulin.github.io/notesforselftraining/`）
 
 ### 範圍邊界
 
@@ -45,7 +45,7 @@ Codex／其他 agent 讀 [`AGENTS.md`](AGENTS.md)，兩份以本檔為準。
 ## 專案結構（發佈架構定案後）
 
 ```
-Document_Traslate/
+notesforselftraining/
 ├─ ATP_4-02.11/…_March_2026.pdf        原始 PDF（source，不進網站）
 ├─ TC_3-21.76/…_Ranger_Handbook.pdf    原始 PDF（source，不進網站）
 ├─ docs/                               VitePress 根
@@ -67,7 +67,7 @@ Document_Traslate/
 
 ## Claude 的工作規則
 
-1. 執行任何 git 指令前先 `pwd` 確認在本資料夾，`git remote -v` 尾段須為 `Document_Traslate.git`。
+1. 執行任何 git 指令前先 `pwd` 確認在本資料夾，`git remote -v` 尾段須為 `notesforselftraining.git`。
 2. 一次處理一章，翻完等使用者驗收再繼續。
 3. 每次收工前更新 [AGENTS.md](AGENTS.md) 進度表與 [DEVLOG.md](DEVLOG.md)。
 4. 術語或語意有疑義時停下來問，不自行假設。

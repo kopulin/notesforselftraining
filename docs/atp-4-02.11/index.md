@@ -108,7 +108,7 @@ features:
 ---
 
 <div class="draft-banner">
-⚠️ 非官方翻譯｜譯自 ATP 4-02.11，2026 年 3 月版。本站僅供訓練複習與查閱參考，<strong>實際操作一律以英文原文為準</strong>。已知的原文錯誤彙整於<a href="/Document_Traslate/errata">原文勘誤</a>頁。
+⚠️ 非官方翻譯｜譯自 ATP 4-02.11，2026 年 3 月版。本站僅供訓練複習與查閱參考，<strong>實際操作一律以英文原文為準</strong>。已知的原文錯誤彙整於<a href="/notesforselftraining/errata">原文勘誤</a>頁。
 </div>
 
 ## 關於本站
